@@ -1,0 +1,1 @@
+Aus proportionalen Zusammenhängen Gleichungen entwickeln

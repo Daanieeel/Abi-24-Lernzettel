@@ -1,0 +1,1 @@
+Zwischen alltagssprachlicher und fachsprachlicher Beschreibung unterscheiden

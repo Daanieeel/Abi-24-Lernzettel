@@ -1,0 +1,1 @@
+= Effekte, die durch Konsum oder Produktion erzeugt werden. Dabei gehen diese nicht in die eigene Kostenfunktion (negative externe Effekte) oder die eigene Nutzenfunktion (positive externe Effekte) ein. Sie beeinflussen den eigenen Konsum/die eigene Produktion also nicht.

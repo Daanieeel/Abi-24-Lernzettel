@@ -1,0 +1,2 @@
+An außerschulischen Lernorten Erkenntnisse gewinnen beziehungsweise ihr Wissen
+anwenden

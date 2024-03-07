@@ -1,0 +1,1 @@
+Analogien beschreiben und zur Lösung von Problemstellungen nutzen

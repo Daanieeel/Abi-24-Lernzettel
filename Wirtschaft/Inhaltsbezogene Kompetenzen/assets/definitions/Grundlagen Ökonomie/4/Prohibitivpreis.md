@@ -1,0 +1,1 @@
+Der kleinste Preis, zu dem keine Einheit des Gutes mehr nachgefragt wird ("kleinste obere Schranke")

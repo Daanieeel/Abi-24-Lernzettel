@@ -1,0 +1,1 @@
+Experimente durchführen und auswerten, dazu gegebenenfalls Messwerte erfassen

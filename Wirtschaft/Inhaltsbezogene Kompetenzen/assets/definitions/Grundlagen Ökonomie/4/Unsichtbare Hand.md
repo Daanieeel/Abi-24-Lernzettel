@@ -1,0 +1,2 @@
+Eigennütziges Handeln der Individuen sorgt automatisch auch für die Verbesserung des Allgemeinwohls in der Gesellschaft.
+&rarr; z.B.: Produktinnovationen, niedrige Preise, top Qualität, optimale Produktmengen

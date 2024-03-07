@@ -1,0 +1,1 @@
+Sachtexte mit physikalischem Bezug sinnentnehmend lesen

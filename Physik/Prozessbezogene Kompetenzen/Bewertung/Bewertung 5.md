@@ -1,0 +1,1 @@
+Informationen aus verschiedenen Quellen auf Relevanz prüfen

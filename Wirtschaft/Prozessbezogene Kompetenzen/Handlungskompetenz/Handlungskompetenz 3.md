@@ -1,0 +1,1 @@
+im Rahmen der Ordnungs- und Systembedingungen ökonomisches Verhalten gestalten (III)

@@ -1,0 +1,1 @@
+ökonomische Sachverhalte grafisch darstellen und auswerten

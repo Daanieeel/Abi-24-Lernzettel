@@ -1,0 +1,2 @@
+kritisch über ökonomisches Verhalten diskutieren mithilfe von Methoden wie
+Dilemmadiskussion oder Streitgespräch

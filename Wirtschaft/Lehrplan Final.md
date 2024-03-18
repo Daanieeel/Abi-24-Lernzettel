@@ -8,6 +8,11 @@ Warum wirtschaften wir?
 
 ![[Warum wirtschaften wir.png]]
 
+> [!important] Wichtige Wirtschaftsakteure
+> - private Haushalte
+> - Unternehmen
+> - Staat
+
 ## 1.1 Erklärungsansätze für ökonomisches Verhalten
 Einflussfaktoren auf ökonomisches Verhalten (Handeln nach Präferenzen, Reagieren auf Anreize und Restriktionen) anhand verschiedener Erklärungsansätze (Rationalitätshypothese beziehungsweise begrenzte Rationalität) beschreiben und deren Aussagekraft beurteilen
 
@@ -825,7 +830,76 @@ Vorprodukte selbst herstellen oder kaufen?
 ## 2.3 Marketing
 Instrumente des Marketing-Mix erläutern sowie eine Marketingstrategie beurteilen
 
+### Operatives vs. strategisches Marketing
+- operativ = kurzfristiges Handeln innerhalb der Strategie (meist im mittleren Managemet)
+&rarr; flexibel
+
+- strategisch = langfristige, grobe Richtungsvorgabe (meist aus dem oberen Management)
+
 ![[Marketing Mix.png]]
+
+### Marktforschung
+
+![[Marktforschung.jpeg]]
+
+Befragung &rarr; Beobachtung &rarr; Test
+
+#### innerbetriebliche Quellen
+
+- Absatzstatistiken
+- Produktionsstatistiken
+- Berichte, bspw. über Kunden- oder Messebesuche
+- Informationen des Rechnungswesens
+- Marktforschungsunterlagen
+
+
+| Vorteile | Nachteile |
+| --- | --- |
+| zugeschnittener | zeitaufwändig<br>Kosten? |
+
+#### außerbetriebliche Quellen
+
+- amtliche Statistiken 
+- Veröffentlichungen von Verbänden/Institutionen
+- Handbücher/Nachschlagewerke
+- Veröffentlichungen wirtschaftswissenschaftlicher Institute
+- Datenbank, zum Beispiel der IHK
+- Fachzeitschriften und Fachzeitung
+
+| Vorteile | Nachteile |
+| --- | --- |
+| schnell<br>weniger Aufwand (Mitarbeiter) | Informationsasymmetrie<br>Abhängigkeit |
+
+#### Marktanalyse
+
+![[Marktanalyse.png]]
+
+### People
+
+Zum Personal gehören alle Beschäftigten, die direkt oder indirekt mit Kunden in Kontakt kommen.
+&rarr; sicherstellen, dass auf allen Ebenen die besten Fachkräfte rekrutiert werden – nicht nur im Kundendienst und im Vertrieb. 
+
+- kontinuierliche Weiterbildung, damit sie deine Marketing-Mix-Strategie erfolgreich umsetzen können.
+- Profis einstellen, um Produkte oder Dienstleistungen zu entwickeln und zu gestalten
+- Konzentration auf ==CRM==, das echte Verbindungen schafft und die Loyalität auf persönlicher Ebene fördert
+
+### Packaging
+
+Die Aufmachung der Produkte eines Unternehmens erregt die Aufmerksamkeit neuer Käufer in einem überfüllten Markt und stärkt den Wert für die Stammkunden. 
+
+- gutes Design hilft den Menschen dabei, die Marke auf den ersten Blick zu erkennen, und kann auch besondere Produktmerkmale hervorheben
+- Verpackung ist die perfekte Stelle für Produktaufklärung oder Markenstärkung
+- gut gestaltete, markengeschützte Extras, die Kunden nutzen können, anbieten
+
+### Process
+
+Priorisiere Prozesse, die sich mit dem Kundenerlebnis überschneiden. Je spezifischer und nahtloser deine Prozesse sind, desto reibungsloser ist die Ausführung für dein Personal. Wenn sich dein Personal nicht mit den einzelnen Verfahren befassen muss, hat es mehr Zeit für Kunden, was zu einem persönlichen und außergewöhnlichen Kundenerlebnis führt.
+
+- Wie kosteneffizient ist die Logistik im Hauptvertriebskanal?
+- Wie sieht es mit der Terminplanung und Lieferlogistik aus?
+- Werden deinen Drittanbietern zu kritischen Zeiten die Produkte ausgehen?
+- Genug Arbeitskräfte, um auch die Stoßzeiten zu meistern?
+- Werden Artikel von der Website zuverlässig geliefert?
 
 ## 2.4 Preispolitik
 eine preispolitische Strategie auch unter Berücksichtigung der Kostenrechnung (Deckungsbeitrag, Break-Even-Analyse) erläutern
@@ -835,10 +909,26 @@ eine preispolitische Strategie auch unter Berücksichtigung der Kostenrechnung (
 ![[Produktlebenszyklus.png]]
 
 ### Deckungsbeitrag
-==TODO==
+
+= Verfahren der Kostenrechnung, das die Kosten in Kategorien trennt:
+1. Fixkosten &rarr; unabhängig von der jeweiligen Produktionsmenge anfallende Kosten
+2. variable Kosten &rarr; mit der Produktionsmenge ansteigende Kosten
+
+Deckungsbeitrag = Differenz zwischen Erlösen und variablen Kosten
+
+**positiver Deckungsbeitrag:**
+leistet Beitrag zur Deckung der fixen Kosten
+- bei guter Auftragslage (also Auslastung des Betriebs): Deckungsbeitrag dient zur Erzielung eines Gewinns
+
+![[Deckungsbeitragsrechnung Beispiel.png]]
 
 ### Break-Even-Analyse
-==TODO==
+
+= Gewinnschwelle; kennzeichnet diejenige Produktionsmenge, bei der die Summe der Erlöse für ein Produkt die Gesamtkosten gerade ausgleichen
+
+- Unterhalb des Break-Even-Points befindet man sich in der Verlustzone, oberhalb in der Gewinnzone
+
+![[Break-Even-Analyse.png]]
 
 ### Presstrategien
 
@@ -964,22 +1054,200 @@ die Bedeutung der betrieblichen Mitbestimmung (gesetzliche Regelungen) beurteile
 ## 2.9 Unternehmenskultur
 Wechselwirkungen von Unternehmenskultur (zum Beispiel Werte, Normen, Rituale) und Mitarbeiterzufriedenheit darstellen
 
+### Corporate Social Responsibility (CSR)
+
+![[CSR.jpeg]]
+
+#### Qualitätsmerkmale von CSR
+
+- langfristige Perspektive
+- systematische Berücksichtigung von sozialen und ökologischen Aspekten (= Vorsorgeprinzip)
+- Fähigkeit, sich auf künftige Situationen schon im Voraus einzustellen (= Antizipationsfähigkeit)
+- Erweiterung der strategischen Perspektive (= Nachhaltigkeitstrends berücksichtigen)
+- Betrachtung der gesamten Wertschöpfungskette
+- Offenheit für Anliegen der ==Stakeholder==
+
+#### Wettbewerbsvorteile durch CSR
+
+##### Reduzierung von Risiken und Kosten
+
+- Reduzierung von Risiken aus den Megatrends (Klimawandel, Ressourcenknappheit, demografischer Wandel, Entwaldung etc.) der Nachhaltigkeit
+- Reduzierung von Risiken bezüglich der Einhaltung von Gesetzen und Richtlinien
+- Vermeidung von strategischen Fehlentwicklung durch entsprechende Nachhaltigkeitsmanagementsysteme
+
+##### Erhöhung von Chancen und Erlösen
+
+- Förderung von Innovationen
+- Halten und Anziehen von Talenten
+- Entwicklung von neuen Geschäften durch neue Produkte und/oder Erschließung neuer Märkte
+- Differenzierung von Wettbewerben
+- Verbesserung des Zugangs von Kapital
+- Glaubwürdigkeit, Sicherstellung der Akzeptanz im Umfeld, bei Partnern und in der Gesellschaft
+
+### Corporate Identity
+
+= alle Maßnahmen eines Unternehmens, mit denen dieses nach innen und außen ein einheitliches, überzeugendes Erscheinungsbild abgeben und ein positives Unternehmensimage am Markt und in der Öffentlichkeit aufbauen will
+
 ## 2.10 Entlohnungsformen
 Entlohnungsformen aus Arbeitgeber- und Arbeitnehmersicht bewerten
 
+### Kriterien für Lohnhöhe
 
+- Qualifikation 
+- Angebot und Nachfrage
+- Branche
+- gewerkschaftlicher Organisationsgrad
+	- Druckmittel
+- Lobbyismus
+
+### Formen
+
+| Zeitlohn | Leistungslohn | Beteiligungslohn |
+| --- | --- | --- |
+| Gehalt<br>(Stundenlohn, Tagelohn, Wochenlohn) | Akkordlohn<br>(Zeitakkord, Geldakkord, Gruppenakkord)<br>Prämienlohn<br>Provision | Erfolgsbeteiligung<br>(Boni, Aktienoptionen) |
+
+### Lohnverhandlung
+
+![[Lohnverhandlung.png]]
 
 ## 2.11 CRM und Konsumentensouveränität 
 Wechselwirkungen zwischen Customer Relationship Management und Konsumentensouveränität (unter anderem informationelle Selbstbestimmung) erläutern
 
+### Customer Relationship Management (CRM)
+
+= alle auf eine dauerhafte Kundenbindung gerichtete Marketingaktivitäten eines Unternehmens
+
+Ziel: die umsatzstärksten und auf Dauer wertvollsten Kunden identifizieren und halten
+&rarr; ein erfolgreiches CRM erfordert die Konzentration aller vorhandenen Kundeninformationen an einer Stelle
+
+### Konsumentensouveränität
+
+= die Möglichkeit der Verbraucher, unabhängige, ausschließlich an ihren persönlichen Vorstellungen und Wünschen ausgerichtete Entscheidung zum Einkauf von Gütern oder Leistungen zu treffen
+
+- freie Kaufentscheidung der Konsumenten wirkt indirekt auch auf die in der Volkswirtschaft hergestellte Menge/Art der Güter
+
+&rarr; Unternehmen sind längerfristig gezwungen, solche Erzeugnisse ausreichend zu produzieren, die von den Verbrauchern auch gekauft
+
+- Konsumfreiheit ist in verschiedenen Wirtschaftsordnungen und Gesellschaften nicht immer selbstverständlich und wird durch verschiedene staatliche Verbote ausgeschlossen
+		(z.B. aus wirtschaftlichen, religiösen oder politischen Gründen)
+- in der sozialen Marktwirtschaft greift in der Regel nicht mit Verboten ein, sondern steuert bestimmte Güter durch 
+	- steuerliche Maßnahmen oder bindet
+		(z.B. Zigaretten oder Benzin)
+	- Bindung des Verkauf an bestimmte Bedingungen 
+		(z.B. Kauf von Medikamenten in der Apotheke)
+
+#### informationelle Selbstbestimmung
+(ein Recht in der freien/sozialen Marktwirtschaft)
+
+Ziel: Informationsasymmetrie abbauen
+&rarr; Verbraucherschutz
+
+1. bestimmten, was Unternehmen über die eigene Person wissen
+2. alle Informationen über Produkte haben
+
 ## 2.12 Unternehmensethische Ansätze
 das Handeln von Unternehmen anhand unternehmensethischer Ansätze überprüfen
+
+&rarr; auch ==Corporate Social Responsibility== 
+
+### Leitbild
+
+= Selbstverständnis eines Unternehmens
+
+#### Intention
+- nach innen: 
+	- Handlungsorientierung
+	- Wertemaßstab für Angestellte
+- nach außen: Botschaft an Kunden/Shareholder
+
 
 ## 2.13 Gesellschaftlicher/technologischer Wandel
 den Einfluss von gesellschaftlichem und technologischem Wandel (zum Beispiel Digitalisierung) auf unternehmerische Entscheidungen erklären
 
+### Industrie 4.0
+
+= Optimierung der industriellen Produktion durch intelligente und digital vernetzte IT-Systeme
+
+![[Industrie 4.0.png]]
+
+&rarr; **Industrie 4.0**: wieder zurück zu individuellen Ansprüchen
+
+> [!important] Internet of Things
+> Sammelbegriff für Technologien einer globalen Infrastruktur der Informationsgesellschaften, die es ermöglicht, physische und virtuelle Objekte miteinander zu vernetzen und sie durch Informations- und Kommunikationstechniken zusammenarbeiten zu lassen
+> 
+> Ziel letztendlich: alles ist mit allem verbunden &rarr; (Voll-)Automatisierung
+
+#### Chancen
+
+- größere Nachfrage
+- genau produzieren
+- Kostenminimierung (Effizienzerhaltung)
+
+#### Risiken
+
+- Just-in-Sequence kann (bei Ausfall) schief gehen
+- Abhängigkeit vom System
+- keinen Puffer
+
 ## 2.14 Politik und Unternehmen
 Wechselwirkungen zwischen wirtschaftspolitischen Rahmenbedingungen und unternehmerischen Interessen und Entscheidungen beurteilen
 
+Beispiele: Mindestlohn, Kündigungsschutz
+
 ## 2.15 Verantwortung von Unternehmen für Volkswirtschaften
 die ökonomische, soziale und ökologische Bedeutung und Verantwortung von Unternehmen für Volkswirtschaften darstellen
+
+### ökonomisch
+
+- Steuern
+- Wirtschaftsantrieb
+- Arbeitsplätze
+- (auch Versorgung des Landes)
+
+### sozial
+
+- Beschäftigungsmöglichkeiten
+- Umweltschutz
+- Gemeinwohlbeitrag
+- Wirtschaftswachstum
+
+### ökologisch
+
+- Nachhaltigkeit
+- Umweltschonung
+- Ressourcenschonung
+- Klimaschutz
+
+# 3 Arbeitsmarkt
+
+Die Schülerinnen und Schüler können die Bedeutung von Arbeit für den Einzelnen erörtern (I) und die Interessen und Beschränkungen der Akteure auf Arbeitsmärkten analysieren (II). Sie können Arbeitsmärkte hinsichtlich ihrer Funktionsfähigkeit beurteilen und die Rolle des Staates bei der Gestaltung des Arbeitsmarktes und zur Bewältigung konjunktureller Instabilitäten erörtern (III).
+
+## 3.1 Stellenwert von Arbeit
+den individuellen und gesellschaftlichen Stellenwert der Arbeit bewerten (Arbeitsgesellschaft, Tätigkeitsgesellschaft)
+
+## 3.2 Individuelle AL
+individuelle Ursachen für Arbeitslosigkeit herausarbeiten und Konsequenzen für die eigene Erwerbsbiografie erörtern
+
+## 3.3 Folgen von AL
+individuelle, soziale und wirtschaftliche Folgen von Arbeitslosigkeit für den Einzelnen erklären
+
+## 3.4 Interessen auf dem AM
+unterschiedliche Interessen von Anbietern und Nachfragern auf dem Arbeitsmarkt darstellen
+
+## 3.5 Ursachen von AL
+Erklärungsansätze für Arbeitslosigkeit (Mismatch-, konjunkturelle und strukturelle Arbeitslosigkeit) erläutern
+
+## 3.6 Folgen von AL für den Staat
+Folgen der Arbeitslosigkeit für Staat und Gesellschaft erläutern und einen hohen Beschäftigungsstand als wirtschaftspolitische Zielsetzung begründen
+
+## 3.7 Staatliche Rahmenbedingungen
+staatliche Rahmenbedingungen (Tarifautonomie, Arbeitsrecht und Transferleistungen) und Ausgestaltungen auf dem deutschen Arbeitsmarkt darstellen (zum Beispiel Zeitarbeit, Niedriglohnsektor, Mindestlöhne)
+
+## 3.8 Arbeitsmarktpolitische Maßnahmen
+angebots- und nachfrageorientierte sowie arbeitsmarktpolitische Maßnahmen zur Förderung der Beschäftigung bewerten
+
+## 3.9 Freiheiten des EU-Binnenmarktes
+Folgen des freien Personenverkehrs auf dem EU-Arbeitsmarkt erörtern
+
+## 3.10 AM eines Landes vs. DE
+den Arbeitsmarkt (Struktur, staatliche Regulierung) eines ausgewählten Landes beschreiben und mit dem deutschen Arbeitsmarkt vergleichen

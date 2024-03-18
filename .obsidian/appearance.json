@@ -1,9 +1,9 @@
 {
   "accentColor": "",
-  "textFontFamily": "Inter",
+  "textFontFamily": "",
   "baseFontSize": 13,
   "enabledCssSnippets": [
     "test"
   ],
-  "interfaceFontFamily": "Inter"
+  "interfaceFontFamily": ""
 }

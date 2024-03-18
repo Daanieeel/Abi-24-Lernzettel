@@ -103,6 +103,8 @@ Wechselwirkungen von Unternehmenskultur (zum Beispiel Werte, Normen, Rituale) un
 ## 10 Entlohnungsformen
 Entlohnungsformen aus Arbeitgeber- und Arbeitnehmersicht bewerten
 
+![[Lohnverhandlung.png]]
+
 ## 11 CRM und Konsumentensouveränität 
 Wechselwirkungen zwischen Customer Relationship Management und Konsumentensouveränität (unter anderem informationelle Selbstbestimmung) erläutern
 

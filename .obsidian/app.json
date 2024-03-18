@@ -9,5 +9,6 @@
   },
   "strictLineBreaks": false,
   "livePreview": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }

@@ -13,31 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wirtschaft/Lehrplan Wirtschaft.md",
+                "file": "Physik/Von Linus.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "3df89d7547354e1d",
+            "id": "46af04e95f30c985",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wirtschaft/Lehrplan Final.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "dbe02ada6df675d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen der BWL/Entlohnungsformen.md",
+                "file": "Physik/Lehrplan Physik Final.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wirtschaft/Lehrplan Final.md",
+                "file": "Physik/Lehrplan Physik Final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wirtschaft/Lehrplan Final.md",
+                "file": "Physik/Lehrplan Physik Final.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wirtschaft/Lehrplan Final.md"
+                "file": "Physik/Lehrplan Physik Final.md"
               }
             }
           },
@@ -172,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Wirtschaft/Lehrplan Final.md"
+                "file": "Physik/Lehrplan Physik Final.md"
               }
             }
           }
@@ -193,10 +181,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3df89d7547354e1d",
+  "active": "46af04e95f30c985",
   "lastOpenFiles": [
-    "Wirtschaft/Lehrplan Wirtschaft.md",
+    "Physik/Von Linus.md",
+    "Physik/Lehrplan Physik Final.md",
+    "Physik/Prozessbezogene Kompetenzen/Kommunikation/Kommunikation 1.md",
+    "Physik/Mock-Aufgaben.md",
+    "Physik/Lehrplan Physik.md",
+    "Schwingkreis.jpeg",
     "Wirtschaft/Lehrplan Final.md",
+    "Wirtschaft/Lehrplan Wirtschaft.md",
     "Wirtschaft/Inhaltsbezogene Kompetenzen/Grundlagen der Betriebswirtschaft.md",
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/images/Break-Even-Analyse.png",
     "Pasted image 20240311154207.png",
@@ -207,7 +201,6 @@
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/images/CSR.jpeg",
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen der BWL/Entlohnungsformen.md",
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/images/Lohnverhandlung.png",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/images/Lohnverhandlung.svg",
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/images/Lohnverhandlung.svg",
     "Wirtschaft/Fragen Wirtschaft.md",
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen Ökonomie/3/Gefangenendilemma.md",
@@ -226,11 +219,7 @@
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen der BWL/Gewinn- und Verlustrechnung (GuV).md",
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen der BWL/Bilanz.md",
     "Wirtschaft/Grundgesetz/Art. 20a GG.md",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/Grundlagen der Ökonomie.md",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen der BWL/Preisstrategien.md",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen der BWL/Finanzierungsmöglichkeiten.md",
     "desktop.ini",
-    "Physik/Abitur Prüfung.md",
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen der BWL",
     "Abi Wirtschaft Stand 07.02.24..zip",
     "Wirtschaft.zip",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Von Linus.md",
+                "file": "Physik/Lehrplan Physik Final.md",
                 "mode": "source",
                 "source": true
               }
@@ -23,16 +23,18 @@
             "id": "46af04e95f30c985",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Physik/Lehrplan Physik Final.md",
-                "mode": "source",
-                "source": true
+                "file": "Physik/Julian Formelsammlung/Overview.canvas",
+                "viewState": {
+                  "x": -7523.467674480257,
+                  "y": -3527.3102830234775,
+                  "zoom": -2.492640035631136
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,17 +183,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46af04e95f30c985",
+  "active": "d71e055ba78426d9",
   "lastOpenFiles": [
-    "Physik/Von Linus.md",
+    "Quelle-Senke.png",
+    "Physik/Julian Formelsammlung/Overview.canvas",
     "Physik/Lehrplan Physik Final.md",
-    "Physik/Prozessbezogene Kompetenzen/Kommunikation/Kommunikation 1.md",
-    "Physik/Mock-Aufgaben.md",
-    "Physik/Lehrplan Physik.md",
-    "Schwingkreis.jpeg",
-    "Wirtschaft/Lehrplan Final.md",
-    "Wirtschaft/Lehrplan Wirtschaft.md",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/Grundlagen der Betriebswirtschaft.md",
+    "Physik/assets/Feldertypen.png",
+    "Physik/assets/Elektrische Feldlinien.png",
+    "Physik/Von Linus.md",
+    "Physik/Julian Formelsammlung/de BROGLIE Wellenlänge.md",
+    "Physik/Julian Formelsammlung/Zentripedalkraft.md",
+    "Physik/Julian Formelsammlung/Winkelgeschwindigkeit.md",
+    "Physik/Julian Formelsammlung/Wienscher Geschwindigkeitsfilter.md",
+    "Physik/Julian Formelsammlung/Widerstand.md",
+    "Physik/Julian Formelsammlung/Wellenformel.md",
+    "Physik/Julian Formelsammlung/Stromstärke.md",
+    "Physik/Julian Formelsammlung/Stehende Welle.md",
+    "Physik/Julian Formelsammlung/Spannung.md",
+    "Physik/Julian Formelsammlung/Spannenergie.md",
+    "Physik/Julian Formelsammlung/Selbstinduktion Spannung.md",
+    "Physik/Julian Formelsammlung/Schwingungsformel.md",
+    "Physik/Julian Formelsammlung/Rückstellkraft.md",
+    "Physik/Julian Formelsammlung/Richtung ändernde Beschleunigung einer Kreisbewegung.md",
+    "Physik/Julian Formelsammlung/Reflektion.md",
+    "Physik/Julian Formelsammlung/Phasenwinkel.md",
+    "Physik/Julian Formelsammlung/Periodendauer.md",
+    "Physik/Julian Formelsammlung/Masse eines Photons.md",
+    "Physik/Julian Formelsammlung/Magnetischerfluss.md",
+    "Physik/Julian Formelsammlung/Magnetische Flussdichte.md",
+    "Physik/Julian Formelsammlung/Magnetische Energie.md",
+    "Physik/Julian Formelsammlung/Lorenzkraft.md",
+    "Physik/Julian Formelsammlung/Leiterlänge im Magnetfeld.md",
+    "Physik/Julian Formelsammlung",
+    "Physik/Julian-Formelsammlung/PhysikNotes/Overview.canvas",
+    "Physik/Julian-Formelsammlung/PhysikNotes",
+    "Physik/Julian-Formelsammlung",
+    "Physik/assets",
+    "Physik/assets/Schwingkreis.jpeg",
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/images/Break-Even-Analyse.png",
     "Pasted image 20240311154207.png",
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/images/Deckungsbeitragsrechnung Beispiel.png",
@@ -199,36 +227,12 @@
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/images/Marktanalyse.png",
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/images/Marktforschung.jpeg",
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/images/CSR.jpeg",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen der BWL/Entlohnungsformen.md",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/images/Lohnverhandlung.png",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/images/Lohnverhandlung.svg",
-    "Wirtschaft/Fragen Wirtschaft.md",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen Ökonomie/3/Gefangenendilemma.md",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen der BWL/Rechtsformen.md",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen der BWL/Betriebliche Mitbestimmung.md",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen Ökonomie/4/Elastizitäten.md",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen der BWL/Wachstumsstrategien nach Ansoff.md",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen der BWL/Anspruchsgruppen eines Unternehmen.md",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen der BWL/Betriebliche Abläufe.md",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen Ökonomie/5/Opportunismus.md",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen der BWL/Kostenarten.md",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen der BWL/Make-or-Buy-Entscheidung.md",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen der BWL/Standortwahl.md",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen der BWL/Liquidität.md",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen der BWL/SWOT Analyse.md",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen der BWL/Gewinn- und Verlustrechnung (GuV).md",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen der BWL/Bilanz.md",
-    "Wirtschaft/Grundgesetz/Art. 20a GG.md",
     "desktop.ini",
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen der BWL",
     "Abi Wirtschaft Stand 07.02.24..zip",
     "Wirtschaft.zip",
     "Physik/Inhaltsbezogene Kompetenzen",
     "Physik/Prozessbezogene Kompetenzen/Bewertung",
-    "Physik/Prozessbezogene Kompetenzen/Methodenkompetenz",
-    "Physik/Prozessbezogene Kompetenzen/Erkenntsnisgewinnung",
-    "Physik/Prozessbezogene Kompetenzen/Kommunikation",
-    "Physik/Prozessbezogene Kompetenzen",
     "Untitled.canvas"
   ]
 }

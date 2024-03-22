@@ -8,9 +8,57 @@ Die Schülerinnen und Schüler untersuchen und erläutern die Ursache sowie die 
 elektrischer Felder. Darüber hinaus sind sie in der Lage, homogene Felder auch quantitativ zu
 beschreiben.
 
-1. die Kraftwirkungen zwischen elektrisch geladenen Körpern beschreiben (Abstoßung, Anziehung)
-2. die Struktur elektrischer Felder beschreiben (Feldlinien, homogenes Feld, Feld einer Punktladung, Feld eines Dipols, Quelle und Senke)
-3.  den Zusammenhang zwischen der Kraftwirkung auf eine Probeladung und der elektrischen Feldstärke anhand eines Experimentes erläutern:
+### 2.1 Kraftwirkungen zwischen Körpern
+die Kraftwirkungen zwischen elektrisch geladenen Körpern beschreiben (Abstoßung, Anziehung)
+
+#### Modellvorstellung
+Der Raum um einen geladenen Körper ist von einem elektrischen Feld erfüllt.
+= Übetrager der elektrischen Kräfte
+
+#### Abstoßung
+gleich geladene Körper stoßen sich ab
+
+#### Anziehung
+unterschiedlich geladene Körper ziehen sich an
+
+
+### 2.2 Struktur elektrischer Felder
+die Struktur elektrischer Felder beschreiben (Feldlinien, homogenes Feld, Feld einer Punktladung, Feld eines Dipols, Quelle und Senke)
+
+#### Feldlinien
+
+![[Elektrische Feldlinien.png]]
+
+- Feldlinien geben die Bahnen der Bewegung eines geladenen Körpers im Feld an (Tangenten)
+- Pfeile der Feldlinien = Richtung einer positiven Ladung
+
+![[Feldertypen.png]]
+
+#### Homogenes Feld
+= Feld, in dem die Feldlinien parallel verlaufen \
+(Beispiel: zwischen den Platten eines Plattenkondensators)
+
+#### Feld einer Punktladung
+= Radialfeld
+
+- Feldlinien verlaufen strahlenförmig von einer positiven Ladung nach außen hin weg
+- ist keine andere Ladung in der Umgebung &rarr; elektrischer Monopol
+- jede isolierte positive Ladung ist also von einem solchen Feld umgeben
+	(bei isolierten negativen Ladungen zeigen die Feldlinien genau in die umgekehrte Richtung)
+
+#### Feld eines Dipols
+
+
+
+#### Quelle und Senke
+
+![[Quelle-Senke.png]]
+
+#### Faraday'scher Käfig
+
+### 2.3 Kraftwirkung auf Probeladung
+den Zusammenhang zwischen der Kraftwirkung auf eine Probeladung und der elektrischen Feldstärke anhand eines Experimentes erläutern:
+
 $$
 \vec{E} = \frac{\vec{F}_{El}} { q } 
 $$
@@ -48,7 +96,10 @@ magnetischer Felder. Darüber hinaus sind sie in der Lage, homogene Felder und d
 geladener Teilchen darin auch quantitativ zu beschreiben. Sie vergleichen die Struktur des elektrischen und magnetischen Feldes sowie des Gravitationsfeldes.
 
 1. die Struktur magnetischer Felder beschreiben (Feldlinien, homogenes Feld, einfache nicht homogene Felder, Feld um einen geraden Leiter, Handregel)
-2.  die Kraftwirkung auf einen stromdurchflossenen Leiter in einem Magnetfeld erläutern:
+
+
+
+1.  die Kraftwirkung auf einen stromdurchflossenen Leiter in einem Magnetfeld erläutern:
 
 $$
 \textrm{magnetische Flussdichte} \quad \vec{B} \quad \textrm{und} \quad F = B \cdot I \cdot s
@@ -190,6 +241,8 @@ die Schwingung in einem elektromagnetischen Schwingkreis erklären und die auftr
 > Zwischen ihnen kann Energie hin- und herpendeln. Dabei wechselt der Strom periodisch seine Richtung und die Spannung ihre Polarität.
 > Strom und Spannung sind um $\frac{π}{2}$ phasenverschoben.
 
+Rückstellkraft: Kombination aus Trägheit der Spule und Streben des Kondensators auf 0
+
 ![[Schwingkreis.jpeg]]
 
 ##### Vergleich zum horizontalen Federschwinger
@@ -198,14 +251,23 @@ die Schwingung in einem elektromagnetischen Schwingkreis erklären und die auftr
 
 Vorgang läuft (theoretisch, wenn ungedämpft  + harmonisch) weiter, wegen Trägheit
 
-### Differenzialgleichung im Schwingkreis
+#### Differenzialgleichung im Schwingkreis
 die Schwingungs-Differentialgleichung eines elektromagnetischen Schwingkreises durch einen geeigneten Ansatz lösen
 
 $$Q''(t) = -\frac {1} {L \cdot C} \cdot Q(t) \quad \textrm {und} \quad T = 2\pi \cdot \sqrt{L \cdot C}$$
 
-8. Gemeinsamkeiten und Unterschiede von mechanischen und elektromagnetischen Schwingungen erläutern (zum Beispiel anhand eines Federpendels und eines elektromagnetischen Schwingkreises)
+### 3.7 Mechanische vs. elektromagnetische Schwingungen
+Gemeinsamkeiten und Unterschiede von mechanischen und elektromagnetischen Schwingungen erläutern (zum Beispiel anhand eines Federpendels und eines elektromagnetischen Schwingkreises)
 
-9. Überlagerungen von unabhängigen Schwingungen qualitativ beschreiben (zum Beispiel Verstärkung, Auslöschung, Schwebungen)
+
+|  Gemeinsamkeiten   |   Unterschiede  |
+| --- | --- |
+| <li>verlaufen periodisch</li><li>Auslöser und Resultierende sind um $\frac{\pi}{2}$ phasenverschoben</li> | mechanisch: <li>Auslöser: Spannenergie/Auslenkung</li><li>Resultierende: Bewegungungsenergie</li><br>elektromagnetisch:<li>Auslöser: Spannung</li><li>Resultierende: Stromstärke</li> |
+
+### 3.8 Überlagerung von Schwingungen
+Überlagerungen von unabhängigen Schwingungen qualitativ beschreiben (zum Beispiel Verstärkung, Auslöschung, Schwebungen)
+
+> siehe unten ==TODO==
 
 ## 4 Wellen
 Die Schülerinnen und Schüler entwickeln ihre Modellvorstellungen zunächst an mechanischen
@@ -244,17 +306,46 @@ grundlegende Wellenphänomene beschreiben (Beugung, Reflexion, Brechung, Interfe
 > Jede Stelle einer Wellenfront kann als Ausgangspunkt einer Elementarwelle aufgefasst werden
 
 #### Reflexion
+
+- Reflexion an einem festen Ende: Phasensprung um π, Punktspiegelung am Umkehrpunkt
+- Reflexion an einem losen Ende: Kein Phasensprung, Achsenspiegelung an der Umkehrachse
+
 #### Brechung
+
+- Geht eine Welle von einem Medium in ein anderes über, so ändert sich die Ausbreitungsgeschwindigkeit, die Welle wird also gebrochen
+- Das Verhältnis vom Einfallswinkel \alpha und des Sinus des Brechungswinkels, ist nur abhängig von den beiden Medien, zwischen deinen der Übergang stattfindet, unabhängig von Einfalls- und Reflexionswinkel
+
+$$
+\frac{sin \alpha}{sin \beta} = \frac{n_2}{n_1}
+$$
+
+##### Der Brechungsindex
+Der Brechungsindex n gibt an, um wie viel langsamer sich Licht in einem Stoff c_n als Vakuum c ausbreitet
+Formel: 
+
+$$
+c_n = \frac{1}{n} \cdot c
+$$
+
 #### Interferenz
+
 #### Energietransport
 
 ### 3.4 Transversalwelle
 eine fortschreitende ebene Transversalwelle beschreiben und die zugehörigen Auslenkungen `s(x,t)` für die beiden Fälle erläutern, bei denen sich entweder nur der Ort oder nur der Zeitpunkt ändert (unter anderem Momentanbild einer Welle)
 
-### 3.5 Interferenzphänomene
+#### Wellengleichung
+
+#### Welle zeichnen
+
+##### zu einem Zeitpunkt
+
+##### an einer Stelle
+
+### 3.5 Interferenz
 eindimensionale stehende Transversalwellen beschreiben und als Interferenzphänomen erklären (Bäuche, Knoten, Eigenfrequenzen, Stellen konstruktiver beziehungsweise destruktiver Interferenz, Reflexion an festen beziehungsweise losen Enden)
 
-### 3.6 kohärente Wellen
+### 3.6 Überlagerung
 mithilfe des Gangunterschieds die Überlagerung zweidimensionaler kohärenter Wellen beschreiben
 
 ### 3.7 Huygensch'sches Prinzip

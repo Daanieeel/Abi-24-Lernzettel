@@ -13,24 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Lehrplan Physik Final.md",
+                "file": "Musik BF/Musik des 20. Jhd.md",
                 "mode": "source",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "46af04e95f30c985",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Physik/Julian Formelsammlung/Overview.canvas",
-                "viewState": {
-                  "x": -7523.467674480257,
-                  "y": -3527.3102830234775,
-                  "zoom": -2.492640035631136
-                }
               }
             }
           }
@@ -100,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik/Lehrplan Physik Final.md",
+                "file": "Musik BF/Musik des 20. Jhd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physik/Lehrplan Physik Final.md",
+                "file": "Musik BF/Musik des 20. Jhd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/Lehrplan Physik Final.md"
+                "file": "Musik BF/Musik des 20. Jhd.md"
               }
             }
           },
@@ -162,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physik/Lehrplan Physik Final.md"
+                "file": "Musik BF/Musik des 20. Jhd.md"
               }
             }
           }
@@ -185,11 +170,23 @@
   },
   "active": "d71e055ba78426d9",
   "lastOpenFiles": [
-    "Quelle-Senke.png",
+    "Musik BF/Expressionismus.md",
+    "Musik BF/assets/Triolen.png",
+    "Musik BF/assets",
+    "Musik BF/assets/Schönberg-Überlebender-aus-Warschau.png",
     "Physik/Julian Formelsammlung/Overview.canvas",
+    "Musik BF/Impressionismus.md",
+    "Musik BF/assets/Akkordrückungen.png",
+    "Musik BF/assets/Quint-Quartlänge.png",
+    "Musik BF/assets/Ganztonleiter.png",
+    "Musik BF/assets/C-major-pentatonic.png",
+    "Pasted image 20240325153813.png",
+    "Musik BF/assets/Bordunquinten.png",
+    "Musik BF/assets/Orgelton.png",
+    "Musik BF/assets/Orgelton.png",
+    "Musik BF/Musik des 20. Jhd.md",
     "Physik/Lehrplan Physik Final.md",
-    "Physik/assets/Feldertypen.png",
-    "Physik/assets/Elektrische Feldlinien.png",
+    "Musik BF",
     "Physik/Von Linus.md",
     "Physik/Julian Formelsammlung/de BROGLIE Wellenlänge.md",
     "Physik/Julian Formelsammlung/Zentripedalkraft.md",
@@ -211,28 +208,15 @@
     "Physik/Julian Formelsammlung/Masse eines Photons.md",
     "Physik/Julian Formelsammlung/Magnetischerfluss.md",
     "Physik/Julian Formelsammlung/Magnetische Flussdichte.md",
-    "Physik/Julian Formelsammlung/Magnetische Energie.md",
-    "Physik/Julian Formelsammlung/Lorenzkraft.md",
-    "Physik/Julian Formelsammlung/Leiterlänge im Magnetfeld.md",
     "Physik/Julian Formelsammlung",
     "Physik/Julian-Formelsammlung/PhysikNotes/Overview.canvas",
     "Physik/Julian-Formelsammlung/PhysikNotes",
     "Physik/Julian-Formelsammlung",
     "Physik/assets",
-    "Physik/assets/Schwingkreis.jpeg",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/images/Break-Even-Analyse.png",
-    "Pasted image 20240311154207.png",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/images/Deckungsbeitragsrechnung Beispiel.png",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/images/Industrie 4.0.png",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/images/Marktanalyse.png",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/images/Marktforschung.jpeg",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/images/CSR.jpeg",
     "desktop.ini",
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen der BWL",
     "Abi Wirtschaft Stand 07.02.24..zip",
     "Wirtschaft.zip",
-    "Physik/Inhaltsbezogene Kompetenzen",
-    "Physik/Prozessbezogene Kompetenzen/Bewertung",
     "Untitled.canvas"
   ]
 }

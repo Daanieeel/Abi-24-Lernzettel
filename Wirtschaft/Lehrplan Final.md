@@ -1225,17 +1225,81 @@ Die Schülerinnen und Schüler können die Bedeutung von Arbeit für den Einzeln
 ## 3.1 Stellenwert von Arbeit
 den individuellen und gesellschaftlichen Stellenwert der Arbeit bewerten (Arbeitsgesellschaft, Tätigkeitsgesellschaft)
 
+> [!faq] Arbeits- vs. Tätigkeitsgesellschaft
+> Arbeitsgesellschaft = ==TODO==
+> Tätigkeitsgeselschaft = ==TODO==
+
+
+| individuell | gesellschaftlich |
+| --- | --- |
+| <li>sinnstiftend</li><li>soziales Ansehen</li><li>subjektives Glücksempfinden</li><li>Lebenssinn</li><li>Geld</li> | <li>Steuern &rarr; Geld</li><li>Gemeinschaftserhalt bzw. -wohl</li><li>Krankenkassen, ALG (Sozialversicherung)</li> |
+
+
 ## 3.2 Individuelle AL
 individuelle Ursachen für Arbeitslosigkeit herausarbeiten und Konsequenzen für die eigene Erwerbsbiografie erörtern
+
+### Ursachen
+- Krankheit
+- Faulheit
+- ==Miss-Match==/mangelnde Ausbildung
+- Diebstahl
+- Unzuverlässigkeit
+- struktureller Wandel (bspw. Kohleabbau wird nicht mehr gebraucht)
+- demografischer Wandel
+- ==freiwillige/friktionelle== Arbeitslosigkeit
+- Arbeit 4.0
+
+### Konsequenzen
+- kein Einkommen
+- negative Auswirkungen auf Glück/Wohlbefinden, Leblosigkeit, Sinnlosigkeit
+- kein Zugehörigkeitsgefühl + niedrigeres Ansehen
+- eingeschränkte Rente
+- abhängig von ==Transferleistungen== (&rarr; vom Staat)
+- schwieriger (Wieder-)Einstieg in den Arbeitsmarkt
 
 ## 3.3 Folgen von AL
 individuelle, soziale und wirtschaftliche Folgen von Arbeitslosigkeit für den Einzelnen erklären
 
+
+| individuell | sozial | wirtschaftlich |
+| --- | --- | --- |
+| <li>subjektives Glücksempfinden</li><li>weniger soziale Kontakte</li><li>mangelndes Selbstwergefühl</li><li>negatives Stigma der Arbeitslosigkeit</li><li>kein finanzieller Spielraum</li><li>Wiedereinstieg schwer</li><li>Lebenssinn?</li><li>kein Einkommen</li> | <li>erhöhte staatliche Ausgaben</li><li>reduzierte Steuereinnahmen</li> | <li>Verringerung des Konsums</li><li>Wachstumsverlangsamung und Inflation</li>&rarr; Reduktio der Produktion<li>reduziertes BIP</li><li>Haushaltsdefizite oder notwendige Ausgabenkürzung bzw. Verschuldung</li> |
+
+
 ## 3.4 Interessen auf dem AM
 unterschiedliche Interessen von Anbietern und Nachfragern auf dem Arbeitsmarkt darstellen
 
+
+| Arbeitnehmer = AN <br>(Anbieter) | Arbeitgeber = AG<br>(Nachfrager) |
+| --- | --- |
+| <li>gesichertes unternehmen</li><li>Motivation bei der Arbeit</li><li>gutes Arbeitsumfeld (Mitarbeitervorteile: KiTa, Kantine etc.)</li><li>maximale Vergütung (Mitarbeiterrabatte, Boni)</li><li>Aufstiegsmöglichkeiten</li><li>Weiterbildung (während der Arbeitszeit)</li><li>gute Work-Life-Balace</li><li>flexible Arbeitszeiten + flexible Arbeitsgestaltung</li> | <li>Flexibilität der AN</li><li>gesichertes Unternehmen</li><li>Gewinnmaximierung, hoher Umsatz</li><li>geringe Personalkosten</li><li>maximale Entscheidungsfreiheit<br> (keinen Betriebsrat etc.)</li><li>hohe Marktmacht, stärker als Konkurrenz sein</li><li>guter Ruf bei AN, Kunden, Partnern</li><li>maximale (Aus-)Nutzung der Arbeitskraft</li><li>Motivation der AN</li> |
+
 ## 3.5 Ursachen von AL
 Erklärungsansätze für Arbeitslosigkeit (Mismatch-, konjunkturelle und strukturelle Arbeitslosigkeit) erläutern
+
+
+| Bezeichnung  | Ursache | Beispiel  |
+| --- | --- | --- |
+| Konjunkturelle Arbeitslosigkeit | Reaktion auf einen zeitlich befristeten Rückgang der gesamtwirtschaftlichen Nachfrage<br>&rarr; betrifft alle Branchen/Regionen/Berufe gleich | in Rezession oder Depression |
+| Strukturelle AL<br> | Ungleichgewicht auf Teilarbeitsmärkten durch strukturellen Wandel | _siehe unten_ |
+| Mismatch-AL | Qualifikation von Arbeitsuchenden passt nicht zu den Anforderungen von offenen Stellen | Bauer arbeitslos, Nachfrage nach IT hoch &rarr; findet schwer einen Job |
+
+### Strukturelle AL
+auch: 
+
+| Bezeichnung  | Ursache | Beispiel  |
+| --- | --- | --- |
+| Sektorale AL | Arbeitskräftebedarf der Wirtschaft ändert sich<br>&rarr; es kommt branchenbezogen zu AL | Kohlebergbau |
+| Regionale AL | struktureller Wandel nicht großflächig, sondern auf<br>bestimmte Region konzentriert | Braunkohletagebau-Gebiete |
+
+### zusätzliche
+
+| Bezeichnung  | Ursache | Beispiel  |
+| --- | --- | --- |
+| Stagnations-AL | Phasen einer Wachstumsschwäche<br>&rarr; wenn das Wachstum der gesamtwirtschaftlichen Produktion im<br> Trend abnimmt | fehlende Innovationsdynamik, fehlende Basisinnovationen |
+| Demografische AL | drastische Ausdehnung des Arbeitskräfteangebots | Eintritt geburtenstarker Jahrgänge in den AM<br>(damals auch Frauen neu im AM) |
+| Saisonale AL | jahreszeitliche Änderung der Angebots- oder Nachfrageseite | Nachfrage nach Bauleistungen im Winter durch ungünstige Wetterlage geringer |
+| Friktionelle AL | Person vorübergehend arbeitslos | Eintritt in das Arbeitsleben nach Studium/Wechsel des Arbeitsplatzes |
 
 ## 3.6 Folgen von AL für den Staat
 Folgen der Arbeitslosigkeit für Staat und Gesellschaft erläutern und einen hohen Beschäftigungsstand als wirtschaftspolitische Zielsetzung begründen

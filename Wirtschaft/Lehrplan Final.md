@@ -1,4 +1,5 @@
 > nur Abiturrelevante Themenfelder (Schwerpunktthemen)
+> Zusammenfassung von Daniel Dopatka, fertig am 26.03.24
 
 
 # 1 Grundlagen der Ökonomie
@@ -1226,8 +1227,9 @@ Die Schülerinnen und Schüler können die Bedeutung von Arbeit für den Einzeln
 den individuellen und gesellschaftlichen Stellenwert der Arbeit bewerten (Arbeitsgesellschaft, Tätigkeitsgesellschaft)
 
 > [!faq] Arbeits- vs. Tätigkeitsgesellschaft
-> Arbeitsgesellschaft = ==TODO==
-> Tätigkeitsgeselschaft = ==TODO==
+> In einer **Arbeitsgesellschaft** wird bei den meisten Menschen in der Gesellschaft das Leben größtenteils von ihrer Arbeit (fremd)bestimmt.
+> 
+> In einer **Tätigkeitsgesellschaft** ist man „darüber weg“ und kann große Teile seines Lebens selbstbestimmt leben. Arbeit ermöglicht es also durch gute Bezahlung (oder Vermögen), sein Leben so zu leben, wie man es möchte.
 
 
 | individuell | gesellschaftlich |
@@ -1248,6 +1250,9 @@ individuelle Ursachen für Arbeitslosigkeit herausarbeiten und Konsequenzen für
 - demografischer Wandel
 - ==freiwillige/friktionelle== Arbeitslosigkeit
 - Arbeit 4.0
+
+> [!important] Arbeit 4.0
+> ![[Arbeit 4.0.png]]
 
 ### Konsequenzen
 - kein Einkommen
@@ -1304,14 +1309,272 @@ auch:
 ## 3.6 Folgen von AL für den Staat
 Folgen der Arbeitslosigkeit für Staat und Gesellschaft erläutern und einen hohen Beschäftigungsstand als wirtschaftspolitische Zielsetzung begründen
 
+### Folgen
+
+| Staat | Gesellschaft |
+| --- | --- |
+| <li>weniger Steuereinnahmen</li><li>hohe Sozialkosten</li> | <li>Spaltung der Gesellschaft</li> |
+
+### Ziel
+Hoher Beschäftigungsstand = stabielere Gesellschaft
+&rarr; weniger Sozialausgaben
+&rarr; mehr Steuereinnahmen
+
+$\Longrightarrow$ **==nachhaltigen gesamtwirtschaftlichen Nachfrage== + ==stabiles Wirtschaftswachstum==**
+
 ## 3.7 Staatliche Rahmenbedingungen
 staatliche Rahmenbedingungen (Tarifautonomie, Arbeitsrecht und Transferleistungen) und Ausgestaltungen auf dem deutschen Arbeitsmarkt darstellen (zum Beispiel Zeitarbeit, Niedriglohnsektor, Mindestlöhne)
+
+### Tarifautonomie
+= grundgesetzlich geschütztes Recht der Tarifpartner (AG und AN), durch freie Vereinbarungen Tarifverträge auszuhandeln, ohne dass eine staatliche Stelle mitwirkt oder sich einmischt.
+
+&rarr; auch Streik- und Aussperrungsrecht als Arbeitskampfmittel von Gewerkschaft/Arbeitgeberverband
+
+> [!important] Streik- und Aussperrungsrecht
+> Während Arbeitnehmer aufgrund von Unzufriedenheit mit dem Tarif **streiken**, haben Arbeitgeber das Recht, die Streikenden aus dem Betrieb für die Dauer des Streiks auszuschließen ("**auszusperren**").
+
+#### Tarifkonflikt
+
+![[Tarifkonflikt-1.jpg]]
+
+#### Mindestlohn
+
+![[Mindestlohn.png]]
+
+### Arbeitsrecht
+
+#### Rechte der Tarifpartner
+
+| Arbeitgeber | Arbeitnehmer |
+| --- | --- |
+| <li>Vertragsfreiheit</li><li>Recht auf die Erfüllung der Arbeitspflicht seiner Angestellten</li><li>Weisungsrecht (kann die Art und auch den Umfang der Arbeitsleistung festlegen, näher bestimmen und an seine Angestellten weitergeben)</li> | <li>Beschäftigung innerhalb der vereinbarten Tätigkeit</li><li>Vergütung und Urlaub</li><li>Arbeitgeber muss dem Arbeitnehmer ein Zeugnis erstellen und ihm nach Beendigung der Tätigkeit alle Arbeitspapiere aushändigen</li><li>Einsicht in seine Personalakte</li><li>sich beschweren, wenn er sich ungerecht behandelt oder benachteiligt fühlt</li> |
+
+> [!important] Vertragsfreiheit
+> = das Recht des Bürgers, Verträge mit jedermann frei abzuschließen und Form, Inhalt und Vertragsbedingungen frei zu bestimmen, sofern Gesetze nichts anderes vorschreiben.
+> &rarr; wesentlichste Voraussetzung für freiheitliches Wirtschaften in einer Marktwirtschaft
+
+#### Pflichte der Tarifpartner
+
+| Arbeitgeber | Arbeitnehmer |
+| --- | --- |
+| Zahlung eines Gehaltes an seine Angestellten<br>(auch wenn diese ohne eigenes Verschulden krank werden) | Arbeitspflicht<br>&rarr; seine Arbeitsleistung persönlich erbringen, die grundsätzlich nicht durch einen Dritten erbracht werden kann<br> (In jedem Arbeitsvertrag wird der Rahmen der Arbeitspflicht festgelegt und der Arbeitgeber kann durch Anweisungen dem Arbeitnehmer seine Pflichten zuteilen, die dieser dann zu befolgen hat) |
+| Fürsorgepflicht<br>(Mutterschutz, Jugendarbeitsschutzgesetz) | Treuepflicht<br>Unterlassungspflichten, zu denen sich der Arbeitnehmer verpflichten muss<br><li>muss sich zur Verschwiegenheit verpflichten und darf keine Geheimnisse preisgeben</li><li>darf den Ruf des Arbeitgebers in keiner Weise schädigen</li> |
+| gleiche Behandlung aller Angestellten ||
+| Anhörungspflicht in allen Angelegenheiten die den Betrieb und seine eigene Person betreffen ||
+| Schreiben eines Arbeitszeugnis, wenn ein Mitarbeiter das Unternehmen verlässt ||
+
+### Transferleistungen
+= staatliche Leistungen an natürliche Personen und Unternehmen, ohne dass eine Gegenleistung durch die begünstigten Transferempfänger erfolgt
+&rarr; Instrument des Sozialstaates zur Vermögensumverteilung
+
+- Bürgergeld
+- Inflationsausgleich
+- ...
+
+### Atypische Beschäftigung
+$\color{green}{\textrm{Vorteile}}$, $\color{gray}{\textrm{neutral}}$, $\color{red}{\textrm{Nachteile}}$
+
+#### Befristete Beschäftigung
+
+- flexible Nachfrage von Seiten der Arbeitgeber
+&rarr; $\color{green}{\textrm{Arbeitgeber}}$, $\color{green}{\textrm{Arbeitnehmer}}$
+- keine Garantie auf Vertragsverlängerung, keine Planungssicherheit
+&rarr; $\color{red}{\textrm{Arbeitgeber}}$, $\color{green}{\textrm{Arbeitnehmer}}$
+- hoher technischer und bürokratischer Aufwand
+&rarr; $\color{red}{\textrm{Arbeitgeber}}$, $\color{gray}{\textrm{Arbeitnehmer}}$
+- hoher Regulierungsgrad des Beschäftigungsverhältnisses durch Gesetzgeber
+&rarr; $\color{red}{\textrm{Arbeitgeber}}$, $\color{green}{\textrm{Arbeitnehmer}}$
+- Sprungbrett in eine dauerhafte Beschäftigung
+&rarr; $\color{green}{\textrm{Arbeitgeber}}$, $\color{green}{\textrm{Arbeitnehmer}}$
+- hohe Fluktuation (Wechsel der Mitarbeiter)
+&rarr; $\color{red}{\textrm{Arbeitgeber}}$, $\color{red}{\textrm{Arbeitnehmer}}$
+- niedrige Motivation
+&rarr; $\color{red}{\textrm{Arbeitgeber}}$, $\color{red}{\textrm{Arbeitnehmer}}$
+
+#### Teilzeitarbeit
+
+- nicht zu jedem Arbeitsablauf passend
+&rarr; $\color{red}{\textrm{Arbeitgeber}}$, $\color{gray}{\textrm{Arbeitnehmer}}$
+- Familie und Beruf leichter verbinden
+&rarr; $\color{gray}{\textrm{Arbeitgeber}}$, $\color{green}{\textrm{Arbeitnehmer}}$
+- Rekrutierungsmöglichkeit von Arbeitnehmern mit geringem Arbeitszeitwunsch aber hoher Qualifizierung
+&rarr; $\color{green}{\textrm{Arbeitgeber}}$, $\color{green}{\textrm{Arbeitnehmer}}$
+- Arbeitgeber kann bestimmte Arbeitszeiten ausschließen
+&rarr; $\color{green}{\textrm{Arbeitgeber}}$, $\color{red}{\textrm{Arbeitnehmer}}$
+
+#### Zeitarbeit
+
+- flexible Bedarfsdeckung
+&rarr; $\color{green}{\textrm{Arbeitgeber}}$, $\color{gray}{\textrm{Arbeitnehmer}}$
+- Motivationsprobleme
+&rarr; $\color{red}{\textrm{Arbeitgeber}}$, $\color{red}{\textrm{Arbeitnehmer}}$
+- Teil des Einkommens wird an Zeitarbeitsfirma abgetreten
+&rarr; $\color{gray}{\textrm{Arbeitgeber}}$, $\color{red}{\textrm{Arbeitnehmer}}$
+- garantiertes Beschäftigungsverhältnis (wenn auch be verschiedenen Firmen)
+&rarr; $\color{gray}{\textrm{Arbeitgeber}}$, $\color{green}{\textrm{Arbeitnehmer}}$
+- nicht immer Integration des Personals in Stammbelegschaft möglich
+&rarr; $\color{red}{\textrm{Arbeitgeber}}$, $\color{red}{\textrm{Arbeitnehmer}}$
+
+#### Zweitjobs
+
+- hoher Fluktuationsgrad
+&rarr; $\color{red}{\textrm{Arbeitgeber}}$, $\color{red}{\textrm{Arbeitnehmer}}$
+- Einkommensergänzung
+&rarr; $\color{gray}{\textrm{Arbeitgeber}}$, $\color{green}{\textrm{Arbeitnehmer}}$
+- flexible Bedarfsdeckung
+&rarr; $\color{green}{\textrm{Arbeitgeber}}$, $\color{green}{\textrm{Arbeitnehmer}}$
+
+#### (Tele-)Heimarbeit
+
+- keine räumliche Trennung von Arbeit und Freizeit (Wohnung wird zur Außenstelle der Firma)
+&rarr; $\color{gray}{\textrm{Arbeitgeber}}$, $\color{red}{\textrm{Arbeitnehmer}}$
+- qualifizierte Beschäftigungsmöglichkeiten für Arbeitnehmer, die das Zuhause nur selten verlassen können/wollen
+&rarr; $\color{green}{\textrm{Arbeitgeber}}$, $\color{green}{\textrm{Arbeitnehmer}}$
+- hoher technischer Aufwand
+&rarr; $\color{red}{\textrm{Arbeitgeber}}$, $\color{gray}{\textrm{Arbeitnehmer}}$
+- Einsparung von Bürofläche
+&rarr; $\color{green}{\textrm{Arbeitgeber}}$, $\color{gray}{\textrm{Arbeitnehmer}}$
+
+#### Geringfügige Beschäftigung
+(Minijob, "400-Euro-Job")
+
+- Deckung von tageszeitlichen oder saisonalen Bedarfslücken (z.B. Samstagsbedarf im Einzelhandel)
+&rarr; $\color{green}{\textrm{Arbeitgeber}}$, $\color{gray}{\textrm{Arbeitnehmer}}$
+- viele Vorschriften und hoher Verwaltungsaufwand
+&rarr; $\color{red}{\textrm{Arbeitgeber}}$, $\color{gray}{\textrm{Arbeitnehmer}}$
+- Erwerb von Sozialversicherungsansprüchen
+&rarr; $\color{red}{\textrm{Arbeitgeber}}$, $\color{green}{\textrm{Arbeitnehmer}}$
+- keine Aufstiegschancen
+&rarr; $\color{gray}{\textrm{Arbeitgeber}}$, $\color{red}{\textrm{Arbeitnehmer}}$
 
 ## 3.8 Arbeitsmarktpolitische Maßnahmen
 angebots- und nachfrageorientierte sowie arbeitsmarktpolitische Maßnahmen zur Förderung der Beschäftigung bewerten
 
+### Allgemein
+
+| Art | Maßnahme |
+| --- | --- |
+| Stagnations-AL | Belohnungssystem für Innovation<br><br>Innovationswettbewerbe |
+| Demografische AL | Alter: langfristige Angebote (Studienplätze, ...), Bonussystem beim Einstellen von Älteren<br><br>Zuwanderung: Sprachkurse |
+| Strukturelle AL | Umschulungen finanzieren<br><br>Hybridlösung (Umschulung + unqualifizierte Arbeit für die Dauer anbieten) |
+| Sektorale AL | Umschulungen finanzieren<br><br>Subvention von schwachen Sektoren (z.B. Kohle) |
+| Regionale Al | Steuersenkungen/Subventionen für Unternehme, die sich in der Region niederlassen |
+| Persönlichkeitsbedingte AL | Unterstützung bei der Jobsuche (durch Jobcenter)<br><br>Umschulungen finanzieren<br><br>auch Kürzungen von ALG androhen |
+
+### Angebotstheorie
+
+#### Grundannahmen
+- es gibt in jeder Volkswirtschaft eine gewisse natürliche Arbeitslosigkeit
+	- weil sich nicht alle Arbeitnehmer an veränderte Strukturen anpassen wollen/können
+- die Geldmenge beeinflusst das nominale Volkseinkommen bzw. Inalndsprodukt
+- Crowding-Out-Effekt
+	- Nachfrageorientierte Ausgaben des Staates würden durch Leihen vom Kapitalmarkt finanziert
+	- daher steigen Zinsen und kreditfinanzierte private Investitionen werden zurückgedrängt (Zurückdrängen privater Nachfrage)
+	&rarr; Staatsausgabenerhöhung verschiebt Nachfragekurve nur gering bis gar nicht nach rechts
+- Beschäftigung und Wachstum einer Volkswirtschaft hängt von der Angebotsseite ab (Angebot von Arbeit, nicht  von Arbeitskraft - also Unternehmen)
+- Markt tendiert zu Vollbeschäftigung &rarr; alle, sofern sie können, wollen arbeiten
+- Nachfrager unterliegen keiner Geldillusion (sie fordern also mehr Lohn, sobald der Reallohn sinkt)
+
+$\Longrightarrow$ Keynesianismus (nachfrageorientiert) bringt kurzfristige Erfolge, langfristig schadet dieser aber, da AN die folgende Reallohnsenkung bemerken und höhere Löhne fordern &rarr; allgemeines Preisniveau steigt
+
+> [!important] Reallohn
+> = Verdienst, über den Arbeitnehmerinnen und Arbeitnehmer tatsächlich verfügen können, nachdem die Inflation berücksichtigt wurde
+
+#### Maßnahmen
+- keine Sozialleistungen &rarr; so wenig staatlicher Eingriff wie möglich
+	- Abbau von Subventionen
+- Monetarismus
+	- Geldmenge = wichtigste Stellgröße zur Steuerung des Wirtschaftsablaufes
+	- zu starke Ausdehnung der Geldmenge führt zu Inflation
+	- zu starke Bremsung zu Deflation
+- ==potenzialorientierte Geldmengenpolitik==
+	- Veränderung des Leitzins (= Entlastung für Unternehmen)
+	- Hartz-Reformen (eröffneten Möglichkeiten für Unternehmerseite)
+
+> [!important] potenzialorientierte Geldmengenpolitik 
+> = eine Form der Geldpolitik, die darauf abzielt, die Produktionskapazitäten einer Wirtschaft optimal zu nutzen. 
+> &rarr; fokussiert sich auf die Vermeidung von Inflation oder Deflation
+> &rarr; versucht, ein Gleichgewicht zwischen Beschäftigungsniveau und Lohnstückkosten herzustellen
+
+### Nachfragetheorie
+
+#### Grundannahmen
+- Saysches Theorem
+	- Angebot schafft Nachfrage
+	- Produktion von Gütern und Dienstleistungen führt automatisch zu einer entsprechenden Nachfrage
+	- in Krisenzeiten aber NICHT: Menschen nutzen ihr verdientes Geld nicht vollständig für die Nachfrage
+- Spekulationskasse
+	- Menschen halten Geld nicht nur für Transaktionszwecke, sondern auch als Wertaufbewahrungsmittel
+	- führt zu einem effektiven Nachfrageausfall
+- starre Löhne
+	- nach unten nicht flexibel
+	- bei Lohnsenkungen besteht Gefahr, dass ein Unterbeschäftigungsgleichgewicht entsteht (aus dem sich Wirtschaftssubjekte nicht befreien können)
+- Geldillusion
+	- Arbeiter erkennen den vollen Umfang der Preisniveauerhöhung (Inflation) nicht
+	- akzeptieren daher die entstehende Reallohnsenkung und fragen (JEDOCH mit geringerer Kaufkraft) weiter nach
+
+#### Maßnahmen
+- Erhöhung der Staatsausgaben
+	- durch Investitionen in Infrastruktur, Bildung oder Sozialleistung die Nachfrage nach Gütern/Dienstleistungen erhöhen
+	- auch: Staat wird selbst zum Nachfrager in hohen Summen
+- Senkung von Steuern
+	- erhöhen das verfügbare Einkommen der privaten Haushalte/Unternehmen
+	- konsumieren und investieren mehr
+- Lockerung der Geldpolitik
+	- Zinssenkung der Zentralbank erleichtert Kreditvergabe &rarr; mehr Investitionen durch Unternehmen
+
 ## 3.9 Freiheiten des EU-Binnenmarktes
 Folgen des freien Personenverkehrs auf dem EU-Arbeitsmarkt erörtern
 
+### Folgen
+
+- kann BIP schwächen, wenn zu viele das Land verlassen
+- schwieriger Kampf um qualifizierte Arbeitskräfte (durch größeres Polypol der Arbeitnehmer)
+	- auch schwieriger Kampf um Arbeitsplatz (durch größeres Polypol der Arbeitgeber)
+- Flexibilität der Arbeitnehmer (Möglichkeit für Unternehmen, AN zu unterstützen)
+	- Wohnung bereitstellen
+	- Unterstützung bei Visa Anträgen
+	$\Longrightarrow$ Attraktionsfaktoren für Unternehmen
+- mglw. teurer für AG (Home-Office etc.) sowie AN (umziehen etc.)
+- grenzüberschreitender Wissenstransfer
+
+### andere Freiheiten
+
+- freier Dienstleistungsverkehr
+- freier Warenverkehr
+- freier Kapitalverkehr
+
+### Bologna Prozesse
+= europäische Studienabschlüsse wurden vereinheitlicht
+&rarr; Bachelor/Master Abschlüsse gleich
+&rarr; European Credit Transfer System (ECTS)
+
 ## 3.10 AM eines Landes vs. DE
 den Arbeitsmarkt (Struktur, staatliche Regulierung) eines ausgewählten Landes beschreiben und mit dem deutschen Arbeitsmarkt vergleichen
+
+### Methodisch
+
+- Anhand verschiedener Indikatoren (die auch zum AM passen!) vergleichen
+	- Real-/Nominallohn
+	- Arbeitslosenquote
+	- Demografie
+	- ...
+- Indikatoren analysieren
+- Gemeinsamkeiten + Unterschiede herausarbeiten
+- Statistik erläutern und Relevanz begründen
+
+auch:
+- Gesetze, politische Situation
+- geographische Vorteile/Lage vergleichen
+
+> [!example] Beispiel Aufsatz
+> Aufsatz von Daniel Dopatka, 14 Punkte
+> https://docs.google.com/document/d/11uxNDyngus00f2wk-vJ7sW22Trxu-7ROXKKN41W3uPg/edit?usp=sharing
+> 
+> **Korrektur**:
+> - hat Tiefe und gute Ansätze
+> - gut formulierte Analyse
+> - in Teilen ungenau
+
+
+

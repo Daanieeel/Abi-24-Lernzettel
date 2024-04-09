@@ -1,9 +1,9 @@
 # Inhaltsbezogene Kompetenzen
 > nur Abiturrelevante Themenfelder (Schwerpunktthemen)
 
-## 2.1 Elektromagnetische Felder
+## 2 Elektromagnetische Felder
 
-### Elektrisches Feld
+### 2.1 Elektrisches Feld
 Die Schülerinnen und Schüler untersuchen und erläutern die Ursache sowie die Struktur statischer
 elektrischer Felder. Darüber hinaus sind sie in der Lage, homogene Felder auch quantitativ zu
 beschreiben.
@@ -67,9 +67,14 @@ zwei Sichtweisen
 #### 2.1.3 Kraftwirkung auf Probeladung
 den Zusammenhang zwischen der Kraftwirkung auf eine Probeladung und der elektrischen Feldstärke anhand eines Experimentes erläutern:
 
+Die elektrische Feldstärke $E$ an einem Ort des Feldes ist der Quotient aus der Kraft $F$, die ein geladener Körper im betrachteten Feld erfährt und seiner Ladung $q$
+
 $$
 \vec{E} = \frac{\vec{F}_{El}} { q } 
 $$
+
+Die Einheit des elektrischen Feldes ist $[E] = \frac{1N}{1C}$.
+Die elektrische Feldstärke ist ein Vektor. Ihre Richtung stimmt mit der Kraft auf einen *positiv* geladenen Probekörper überein.
 
 #### 2.1.4 Feldstärke des Plattenkondensators
 die elektrische Feldstärke eines Plattenkondensators beschreiben:
@@ -109,60 +114,72 @@ Die Schülerinnen und Schüler untersuchen und erläutern die Ursache sowie die 
 magnetischer Felder. Darüber hinaus sind sie in der Lage, homogene Felder und die Bewegung
 geladener Teilchen darin auch quantitativ zu beschreiben. Sie vergleichen die Struktur des elektrischen und magnetischen Feldes sowie des Gravitationsfeldes.
 
-### 2.2.1 Kraftwirkung auf einen Leiter
+#### 2.2.1 Kraftwirkung auf einen Leiter
 die Kraftwirkung auf einen stromdurchflossenen Leiter in einem Magnetfeld erläutern:
 
-### 2.2.2 Struktur magnetischer Felder
+#### 2.2.2 Struktur magnetischer Felder
 die Struktur magnetischer Felder beschreiben (Feldlinien, homogenes Feld, einfache nicht homogene Felder, Feld um einen geraden Leiter, Handregel)
 
 $$
 \textrm{magnetische Flussdichte} \quad \vec{B} \quad \textrm{und} \quad F = B \cdot I \cdot s
 $$
 
-3. die Kraftwirkung auf eine elektrische Ladung in einem Magnetfeld erläutern (Lorentzkraft, Drei-Finger-Regel):
+#### 2.2.3 Kraftwirkung auf eine Ladung
+die Kraftwirkung auf eine elektrische Ladung in einem Magnetfeld erläutern (Lorentzkraft, Drei-Finger-Regel):
 
 $$
 F_{L} = q \cdot v \cdot B
 $$
 
-4. das Magnetfeld einer schlanken Spule untersuchen und beschreiben 
+#### 2.2.4 Schlanke Spule
+das Magnetfeld einer schlanken Spule untersuchen und beschreiben 
 
 $$
 B = \mu_{0} \cdot \mu_{r} \cdot \frac{n}{l} \cdot I
 $$
 
-> [[Erkenntnisgewinnung 6]], [[Erkenntnisgewinnung 7]], [[Erkenntnisgewinnung 8]]
-> [[Kommunikation 2]], [[Kommunikation 3]], [[Kommunikation 4]], [[Kommunikation 5]]
+#### 2.2.5 Senkrechte Bewegung geladener Teilchen 
+die Bewegung geladener Teilchen senkrecht zu einem homogenen Magnetfeld beschreiben und hierbei ihre Kenntnisse aus der Mechanik anwenden (zum Beispiel Massenspektrograph)
 
-5. die Bewegung geladener Teilchen senkrecht zu einem homogenen Magnetfeld beschreiben und hierbei ihre Kenntnisse aus der Mechanik anwenden (zum Beispiel Massenspektrograph)
-6. die Bewegung geladener Teilchen in gekreuzten homogenen elektrischen und magnetischen Feldern erklären (zum Beispiel Wien'sches Filter)
-7. Gemeinsamkeiten und Unterschiede zwischen magnetischen, elektrischen und Gravitationsfeldern beschreiben
+#### 2.2.6 Gekreuzte Bewegung geladener Teilchen
+die Bewegung geladener Teilchen in gekreuzten homogenen elektrischen und magnetischen Feldern erklären (zum Beispiel Wien'sches Filter)
 
-### Elektrodynamik
+#### 2.2.7 Magnetische vs. elektrische vs. Gravitationsfelder
+Gemeinsamkeiten und Unterschiede zwischen magnetischen, elektrischen und Gravitationsfeldern beschreiben
+
+### 2.3 Elektrodynamik
 Die Schülerinnen und Schüler untersuchen das Phänomen der elektromagnetischen Induktion und
 erläutern technische Anwendungen. Sie beschreiben die Ursache und Struktur elektromagnetischer
 Felder anhand der Aussagen der Maxwell-Gleichungen.
 
-1. mithilfe der Lorentzkraft erklären, dass in einem Leiter, der senkrecht zu einem Magnetfeld bewegt wird, eine Spannung beziehungsweise ein elektrischer Strom induziert wird
-2. das Faraday'sche Induktionsgesetz erläutern und anwenden (magnetischer Fluss, Lenz'sche Regel)
+#### 2.3.1 Lorentzkraft
+mithilfe der Lorentzkraft erklären, dass in einem Leiter, der senkrecht zu einem Magnetfeld bewegt wird, eine Spannung beziehungsweise ein elektrischer Strom induziert wird
+
+#### 2.3.2 Induktionsgesetz
+das Faraday'sche Induktionsgesetz erläutern und anwenden (magnetischer Fluss, Lenz'sche Regel)
 
 $$
 U_{ind} = -n \cdot \Phi
 $$
 
-3. technische Anwendungen des Induktionsgesetzes qualitativ beschreiben (zum Beispiel Generator, Transformator, Induktionsladegerät)
-4. Selbstinduktionseffekte in Stromkreisen bei Ein- und Ausschaltvorgängen beschreiben (Induktivität)
+#### 2.3.3 Anwendung des induktionsgesetz
+technische Anwendungen des Induktionsgesetzes qualitativ beschreiben (zum Beispiel Generator, Transformator, Induktionsladegerät)
+
+#### 2.3.4 Selbstinduktion
+Selbstinduktionseffekte in Stromkreisen bei Ein- und Ausschaltvorgängen beschreiben (Induktivität)
 $$
 U_{ind} = -L \cdot I
 $$
 
-5. die Eigenschaften einer schlanken Spule beschreiben 
+#### 2.3.5 Eigenschaften der schlanken Spule
+die Eigenschaften einer schlanken Spule beschreiben 
 
 $$
 L = \mu_{0} \cdot n^{2} \cdot \frac{A}{l} \quad \textrm{und} \quad E_{Spule} = \frac{1}{2} \cdot L \cdot I^{2}
 $$
 
-6. Ursache und Struktur elektromagnetischer Felder anhand der Aussagen der Maxwell-Gleichungen im Überblick beschreiben
+#### 2.3.6 
+Ursache und Struktur elektromagnetischer Felder anhand der Aussagen der Maxwell-Gleichungen im Überblick beschreiben
 7. eine technische Anwendung elektrischer Wirbelströme beschreiben (zum Beispiel Wirbelstrombremse, Induktionskochplatte)
 
 ## 3 Schwingungen

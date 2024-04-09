@@ -1,31 +1,31 @@
 # Inhaltsbezogene Kompetenzen
 > nur Abiturrelevante Themenfelder (Schwerpunktthemen)
 
-## 2 Elektromagnetische Felder
+## 2.1 Elektromagnetische Felder
 
 ### Elektrisches Feld
 Die Schülerinnen und Schüler untersuchen und erläutern die Ursache sowie die Struktur statischer
 elektrischer Felder. Darüber hinaus sind sie in der Lage, homogene Felder auch quantitativ zu
 beschreiben.
 
-### 2.1 Kraftwirkungen zwischen Körpern
+#### 2.1.1 Kraftwirkungen zwischen Körpern
 die Kraftwirkungen zwischen elektrisch geladenen Körpern beschreiben (Abstoßung, Anziehung)
 
-#### Modellvorstellung
+##### Modellvorstellung
 Der Raum um einen geladenen Körper ist von einem elektrischen Feld erfüllt.
 = Übetrager der elektrischen Kräfte
 
-#### Abstoßung
+##### Abstoßung
 gleich geladene Körper stoßen sich ab
 
-#### Anziehung
+##### Anziehung
 unterschiedlich geladene Körper ziehen sich an
 
 
-### 2.2 Struktur elektrischer Felder
+#### 2.1.2 Struktur elektrischer Felder
 die Struktur elektrischer Felder beschreiben (Feldlinien, homogenes Feld, Feld einer Punktladung, Feld eines Dipols, Quelle und Senke)
 
-#### Feldlinien
+##### Feldlinien
 
 ![[Elektrische Feldlinien.png]]
 
@@ -34,11 +34,11 @@ die Struktur elektrischer Felder beschreiben (Feldlinien, homogenes Feld, Feld e
 
 ![[Feldertypen.png]]
 
-#### Homogenes Feld
+##### Homogenes Feld
 = Feld, in dem die Feldlinien parallel verlaufen \
 (Beispiel: zwischen den Platten eines Plattenkondensators)
 
-#### Feld einer Punktladung
+##### Feld einer Punktladung
 = Radialfeld
 
 - Feldlinien verlaufen strahlenförmig von einer positiven Ladung nach außen hin weg
@@ -46,60 +46,74 @@ die Struktur elektrischer Felder beschreiben (Feldlinien, homogenes Feld, Feld e
 - jede isolierte positive Ladung ist also von einem solchen Feld umgeben
 	(bei isolierten negativen Ladungen zeigen die Feldlinien genau in die umgekehrte Richtung)
 
-#### Feld eines Dipols
+##### Feld eines Dipols
 
 
 
-#### Quelle und Senke
+##### Quelle und Senke
 
 ![[Quelle-Senke.png]]
 
-#### Faraday'scher Käfig
+##### Faraday'scher Käfig
 
-### 2.3 Kraftwirkung auf Probeladung
+zwei Sichtweisen
+
+1. die frei beweglichen Ladungsträger werden so lange verschoben, bis im Innern des Leiters keine Kraft mehr auf die frei beweglichen Ladungsträgern wirkt
+	&rarr; keine Kraft = kein Feld
+2. Influenzladungen erzeugen ein Gegenfeld, welches im Innern des Leiters das äußere Feld gerade kompensiert
+
+![[Faradayscher Käfig.png]]
+
+#### 2.1.3 Kraftwirkung auf Probeladung
 den Zusammenhang zwischen der Kraftwirkung auf eine Probeladung und der elektrischen Feldstärke anhand eines Experimentes erläutern:
 
 $$
 \vec{E} = \frac{\vec{F}_{El}} { q } 
 $$
 
-4. die elektrische Feldstärke eines Plattenkondensators beschreiben:
+#### 2.1.4 Feldstärke des Plattenkondensators
+die elektrische Feldstärke eines Plattenkondensators beschreiben:
 
 $$
 E = \frac{U}{d}
 $$
 
-5. die Kapazität eines Kondensators erläutern:
+#### 2.1.5 Kapazität eines Kondensators
+die Kapazität eines Kondensators erläutern:
 
 $$
 C = \frac{Q}{U}
 $$
 
-6. die Eigenschaften eines Plattenkondensators beschreiben:
+#### 2.1.6 Eigenschaften des Plattenkondensators
+die Eigenschaften eines Plattenkondensators beschreiben:
 
 $$
 C = \varepsilon_{0} \cdot \varepsilon_{r} \cdot \frac{A}{d} \quad \textrm{und} \quad E_{Kond} = \frac{1}{2} \cdot C \cdot U^{2}
 $$
-> [[Erkenntnisgewinnung 6]], [[Erkenntnisgewinnung 7]], [[Erkenntnisgewinnung 8]]
-> [[Kommunikation 2]], [[Kommunikation 3]], [[Kommunikation 4]]
 
-7. den zeitabhängigen Auf- und Entladevorgang eines Kondensators anhand von `U-t`-Diagrammen erläutern
-8. den Zusammenhang zwischen Spannung und Potential erläutern (Äquipotentiallinien eines homogenen Feldes sowie des Feldes eines Dipols)
-9. Gemeinsamkeiten und Unterschiede zwischen elektrischen Feldern und Gravitationsfeldern beschreiben (homogene Felder, Felder einzelner Ladungen beziehungsweise Massen)
-> [[Erkenntnisgewinnung 10]]
+#### 2.1.7 Auf-/Entladen eines Kondensators
+den zeitabhängigen Auf- und Entladevorgang eines Kondensators anhand von `U-t`-Diagrammen erläutern
 
-10. die Bewegung geladener Teilchen parallel und senkrecht zu einem homogenen elektrischen Feld beschreiben und hierbei ihre Kenntnisse aus der Mechanik anwenden
+#### 2.1.8 Zusammenhang von Spannung 
+den Zusammenhang zwischen Spannung und Potential erläutern (Äquipotentiallinien eines homogenen Feldes sowie des Feldes eines Dipols)
 
-### Magnetisches Feld
+#### 2.1.9 Elektrische vs. Gravitationsfelder
+Gemeinsamkeiten und Unterschiede zwischen elektrischen Feldern und Gravitationsfeldern beschreiben (homogene Felder, Felder einzelner Ladungen beziehungsweise Massen)
+
+#### 2.1.10 Bewegung geladener Teilchen
+die Bewegung geladener Teilchen parallel und senkrecht zu einem homogenen elektrischen Feld beschreiben und hierbei ihre Kenntnisse aus der Mechanik anwenden
+
+### 2.2 Magnetisches Feld
 Die Schülerinnen und Schüler untersuchen und erläutern die Ursache sowie die Struktur statischer
 magnetischer Felder. Darüber hinaus sind sie in der Lage, homogene Felder und die Bewegung
 geladener Teilchen darin auch quantitativ zu beschreiben. Sie vergleichen die Struktur des elektrischen und magnetischen Feldes sowie des Gravitationsfeldes.
 
-1. die Struktur magnetischer Felder beschreiben (Feldlinien, homogenes Feld, einfache nicht homogene Felder, Feld um einen geraden Leiter, Handregel)
+### 2.2.1 Kraftwirkung auf einen Leiter
+die Kraftwirkung auf einen stromdurchflossenen Leiter in einem Magnetfeld erläutern:
 
-
-
-1.  die Kraftwirkung auf einen stromdurchflossenen Leiter in einem Magnetfeld erläutern:
+### 2.2.2 Struktur magnetischer Felder
+die Struktur magnetischer Felder beschreiben (Feldlinien, homogenes Feld, einfache nicht homogene Felder, Feld um einen geraden Leiter, Handregel)
 
 $$
 \textrm{magnetische Flussdichte} \quad \vec{B} \quad \textrm{und} \quad F = B \cdot I \cdot s
@@ -123,7 +137,6 @@ $$
 5. die Bewegung geladener Teilchen senkrecht zu einem homogenen Magnetfeld beschreiben und hierbei ihre Kenntnisse aus der Mechanik anwenden (zum Beispiel Massenspektrograph)
 6. die Bewegung geladener Teilchen in gekreuzten homogenen elektrischen und magnetischen Feldern erklären (zum Beispiel Wien'sches Filter)
 7. Gemeinsamkeiten und Unterschiede zwischen magnetischen, elektrischen und Gravitationsfeldern beschreiben
-> [[Erkenntnisgewinnung 10]]
 
 ### Elektrodynamik
 Die Schülerinnen und Schüler untersuchen das Phänomen der elektromagnetischen Induktion und
@@ -148,8 +161,6 @@ $$
 $$
 L = \mu_{0} \cdot n^{2} \cdot \frac{A}{l} \quad \textrm{und} \quad E_{Spule} = \frac{1}{2} \cdot L \cdot I^{2}
 $$
-> [[Erkenntnisgewinnung 6]], [[Erkenntnisgewinnung 7]], [[Erkenntnisgewinnung 8]]
-> [[Kommunikation 2]], [[Kommunikation 3]], [[Kommunikation 4]], [[Kommunikation 5]], [[Kommunikation 6]]
 
 6. Ursache und Struktur elektromagnetischer Felder anhand der Aussagen der Maxwell-Gleichungen im Überblick beschreiben
 7. eine technische Anwendung elektrischer Wirbelströme beschreiben (zum Beispiel Wirbelstrombremse, Induktionskochplatte)
@@ -313,15 +324,15 @@ grundlegende Wellenphänomene beschreiben (Beugung, Reflexion, Brechung, Interfe
 #### Brechung
 
 - Geht eine Welle von einem Medium in ein anderes über, so ändert sich die Ausbreitungsgeschwindigkeit, die Welle wird also gebrochen
-- Das Verhältnis vom Einfallswinkel \alpha und des Sinus des Brechungswinkels, ist nur abhängig von den beiden Medien, zwischen deinen der Übergang stattfindet, unabhängig von Einfalls- und Reflexionswinkel
+- Das Verhältnis vom Einfallswinkel $\alpha$ und des Sinus des Brechungswinkels $\beta$, ist nur abhängig von den beiden Medien, zwischen deinen der Übergang stattfindet, unabhängig von Einfalls- und Reflexionswinkel
 
 $$
-\frac{sin \alpha}{sin \beta} = \frac{n_2}{n_1}
+\frac{sin \beta}{sin \alpha} = \frac{n_1}{n_2} = \frac{c_1}{c_2}
 $$
 
 ##### Der Brechungsindex
-Der Brechungsindex n gibt an, um wie viel langsamer sich Licht in einem Stoff c_n als Vakuum c ausbreitet
-Formel: 
+Der Brechungsindex n gibt an, um wie viel langsamer sich Licht in einem Stoff $c_n$ als Vakuum c ausbreitet
+Formel:
 
 $$
 c_n = \frac{1}{n} \cdot c
@@ -363,23 +374,14 @@ mithilfe des Modells der elektromagnetischen Welle. Sie können ihre Erkenntniss
 
 1. kohärentes Licht als elektromagnetische Welle beschreiben (unter anderem Lichtgeschwindigkeit)
 2. das Strahlenmodell und das Wellenmodell des Lichts miteinander vergleichen (Gültigkeitsbereich des Strahlenmodells: zum Beispiel Beugung an einer Blende, Dispersion)
-> [[Bewertung 4]]
-
 3. Interferenzphänomene an Einzelspalt, Doppelspalt und Gitter experimentell untersuchen
-> [[Erkenntnisgewinnung 4]]
-
 4. die Struktur der Interferenzmuster und der Intensitätsverteilung bei Beugung an Einzelspalt, Doppelspalt und Gitter beschreiben (Unterschied zwischen idealisierten und realen Spalten mit endlicher Breite)
 5. die Lage von Interferenzminima beziehungsweise Interferenzmaxima bei ausgewählten Beugungsvorgängen in Fernfeldnäherung berechnen (Minima beim Einzelspalt, Minima und Maxima beim Doppelspalt, Hauptmaxima beim Gitter)
-> [[Erkenntnisgewinnung 4]]
-
 6. Interferenzphänomene im Alltag physikalisch beschreiben (zum Beispiel Interferenz an dünnen Schichten, Interferenz an Gitterstrukturen, Laser-Speckle)
 7. die geschichtliche Entwicklung von Modellvorstellungen des Lichts beschreiben (zum Beispiel Lichtstrahlen, Lichtteilchen, Lichtwellen, elektromagnetische Wellen, Photonen)
-> [[Bewertung 4]], [[Bewertung 11]]
 
 ## 6 Quantenphysik
 1. den lichtelektrischen Effekt beschreiben und anhand der Einstein'schen Lichtquantenhypothese erklären (Hallwachs-Effekt, Einstein'sche Gleichung, Planck'sche Konstante h)
-> [[Bewertung 4]], [[Bewertung 11]]
-
 2. erläutern, wie sich Quantenobjekte anhand ihrer Energie und anhand ihres Impulses beschreiben lassen (de-Broglie-Wellenlänge von Materiewellen)
 
 $$
@@ -390,11 +392,7 @@ $$
 4. erläutern, wie für Quantenobjekte der Determinismus der klassischen Physik durch Wahrscheinlichkeitsaussagen ersetzt wird (Interferenz-Experimente mit einzelnen Quantenobjekten)
 5. Experimente zur Interferenz einzelner Quantenobjekte anhand von Wahrscheinlichkeitsaussagen beschreiben und den Ausgang der Experimente erklären
 6. beschreiben, dass Quantenobjekte zwar stets Wellen- und Teilcheneigenschaften aufweisen, sich diese aber nicht unabhängig voneinander beobachten lassen. Sie können dies anhand der Interferenzfähigkeit und der Welcher-Weg-Information bei einzelnen Quantenobjekten erläutern (zum Beispiel Doppelspalt, Mach-Zehnder-Interferometer)
-> [[Erkenntnisgewinnung 11]]
-> [[Bewertung 4]]
-
 7. erläutern, dass der Ort und der Impuls von Quantenobjekten nicht gleichzeitig beliebig genau messbar sind und begründen, warum der klassische Bahnbegriff und der klassische Determinismus aufgegeben werden müssen (Unbestimmtheitsrelation)
-> [[Bewertung 4]]
 
 $$
 \Delta x \cdot \Delta p_{x} \leq h

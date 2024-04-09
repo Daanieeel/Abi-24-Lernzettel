@@ -178,7 +178,7 @@ $$
 L = \mu_{0} \cdot n^{2} \cdot \frac{A}{l} \quad \textrm{und} \quad E_{Spule} = \frac{1}{2} \cdot L \cdot I^{2}
 $$
 
-#### 2.3.6 
+#### 2.3.6 Maxwell-Gleichungen
 Ursache und Struktur elektromagnetischer Felder anhand der Aussagen der Maxwell-Gleichungen im Überblick beschreiben
 7. eine technische Anwendung elektrischer Wirbelströme beschreiben (zum Beispiel Wirbelstrombremse, Induktionskochplatte)
 
@@ -389,33 +389,57 @@ den Hertz'schen Dipol als Grenzfall eines elektromagnetischen Schwingkreises erk
 Die Schülerinnen und Schüler untersuchen optische Interferenzphänomene und beschreiben diese
 mithilfe des Modells der elektromagnetischen Welle. Sie können ihre Erkenntnisse sowohl auf Alltagsphänomene als auch die historische Entwicklung von Modellen anwenden.
 
-1. kohärentes Licht als elektromagnetische Welle beschreiben (unter anderem Lichtgeschwindigkeit)
-2. das Strahlenmodell und das Wellenmodell des Lichts miteinander vergleichen (Gültigkeitsbereich des Strahlenmodells: zum Beispiel Beugung an einer Blende, Dispersion)
-3. Interferenzphänomene an Einzelspalt, Doppelspalt und Gitter experimentell untersuchen
-4. die Struktur der Interferenzmuster und der Intensitätsverteilung bei Beugung an Einzelspalt, Doppelspalt und Gitter beschreiben (Unterschied zwischen idealisierten und realen Spalten mit endlicher Breite)
-5. die Lage von Interferenzminima beziehungsweise Interferenzmaxima bei ausgewählten Beugungsvorgängen in Fernfeldnäherung berechnen (Minima beim Einzelspalt, Minima und Maxima beim Doppelspalt, Hauptmaxima beim Gitter)
-6. Interferenzphänomene im Alltag physikalisch beschreiben (zum Beispiel Interferenz an dünnen Schichten, Interferenz an Gitterstrukturen, Laser-Speckle)
-7. die geschichtliche Entwicklung von Modellvorstellungen des Lichts beschreiben (zum Beispiel Lichtstrahlen, Lichtteilchen, Lichtwellen, elektromagnetische Wellen, Photonen)
+### 5.1 Licht als Welle
+kohärentes Licht als elektromagnetische Welle beschreiben (unter anderem Lichtgeschwindigkeit)
+
+### 5.2 Strahlenmodell
+das Strahlenmodell und das Wellenmodell des Lichts miteinander vergleichen (Gültigkeitsbereich des Strahlenmodells: zum Beispiel Beugung an einer Blende, Dispersion)
+
+### 5.3 Interferenzphänomene
+Interferenzphänomene an Einzelspalt, Doppelspalt und Gitter experimentell untersuchen
+
+### 5.4 Interferenzmuster an Spalten/Gittern
+die Struktur der Interferenzmuster und der Intensitätsverteilung bei Beugung an Einzelspalt, Doppelspalt und Gitter beschreiben (Unterschied zwischen idealisierten und realen Spalten mit endlicher Breite)
+
+### 5.5. Interferenzminima/-maxima berechnen
+die Lage von Interferenzminima beziehungsweise Interferenzmaxima bei ausgewählten Beugungsvorgängen in Fernfeldnäherung berechnen (Minima beim Einzelspalt, Minima und Maxima beim Doppelspalt, Hauptmaxima beim Gitter)
+
+### 5.6 Interferenzphänomene im Alltag
+Interferenzphänomene im Alltag physikalisch beschreiben (zum Beispiel Interferenz an dünnen Schichten, Interferenz an Gitterstrukturen, Laser-Speckle)
+
+### 5.7 Entwicklung von Modellvorstellungen
+die geschichtliche Entwicklung von Modellvorstellungen des Lichts beschreiben (zum Beispiel Lichtstrahlen, Lichtteilchen, Lichtwellen, elektromagnetische Wellen, Photonen)
 
 ## 6 Quantenphysik
-1. den lichtelektrischen Effekt beschreiben und anhand der Einstein'schen Lichtquantenhypothese erklären (Hallwachs-Effekt, Einstein'sche Gleichung, Planck'sche Konstante h)
-2. erläutern, wie sich Quantenobjekte anhand ihrer Energie und anhand ihres Impulses beschreiben lassen (de-Broglie-Wellenlänge von Materiewellen)
+
+### 6.1 Lichtelektrischer Effekt
+den lichtelektrischen Effekt beschreiben und anhand der Einstein'schen Lichtquantenhypothese erklären (Hallwachs-Effekt, Einstein'sche Gleichung, Planck'sche Konstante h)
+
+### 6.2 Impuls und Energie von Quantenobjekte
+erläutern, wie sich Quantenobjekte anhand ihrer Energie und anhand ihres Impulses beschreiben lassen (de-Broglie-Wellenlänge von Materiewellen)
 
 $$
 E_{Quant} = h \cdot f \quad \textrm{und} \quad p = \frac{h}{\lambda}
 $$
 
-3. Gemeinsamkeiten und Unterschiede des Verhaltens von klassischen Wellen, klassischen Teilchen und Quantenobjekten am Doppelspalt beschreiben
-4. erläutern, wie für Quantenobjekte der Determinismus der klassischen Physik durch Wahrscheinlichkeitsaussagen ersetzt wird (Interferenz-Experimente mit einzelnen Quantenobjekten)
-5. Experimente zur Interferenz einzelner Quantenobjekte anhand von Wahrscheinlichkeitsaussagen beschreiben und den Ausgang der Experimente erklären
-6. beschreiben, dass Quantenobjekte zwar stets Wellen- und Teilcheneigenschaften aufweisen, sich diese aber nicht unabhängig voneinander beobachten lassen. Sie können dies anhand der Interferenzfähigkeit und der Welcher-Weg-Information bei einzelnen Quantenobjekten erläutern (zum Beispiel Doppelspalt, Mach-Zehnder-Interferometer)
-7. erläutern, dass der Ort und der Impuls von Quantenobjekten nicht gleichzeitig beliebig genau messbar sind und begründen, warum der klassische Bahnbegriff und der klassische Determinismus aufgegeben werden müssen (Unbestimmtheitsrelation)
+### 6.3 Klassische Wellen/Teilchen vs. Quantenobjekte
+Gemeinsamkeiten und Unterschiede des Verhaltens von klassischen Wellen, klassischen Teilchen und Quantenobjekten am Doppelspalt beschreiben
+
+### 6.4 Determinismus bei Quantenobjekte
+erläutern, wie für Quantenobjekte der Determinismus der klassischen Physik durch Wahrscheinlichkeitsaussagen ersetzt wird (Interferenz-Experimente mit einzelnen Quantenobjekten)
+
+### 6.5 Experimente beschreiben
+Experimente zur Interferenz einzelner Quantenobjekte anhand von Wahrscheinlichkeitsaussagen beschreiben und den Ausgang der Experimente erklären
+
+### 6.6 Wellen- und Teilcheneigenschaften
+beschreiben, dass Quantenobjekte zwar stets Wellen- und Teilcheneigenschaften aufweisen, sich diese aber nicht unabhängig voneinander beobachten lassen. Sie können dies anhand der Interferenzfähigkeit und der Welcher-Weg-Information bei einzelnen Quantenobjekten erläutern (zum Beispiel Doppelspalt, Mach-Zehnder-Interferometer)
+
+### 6.7 Unschärferelation
+erläutern, dass der Ort und der Impuls von Quantenobjekten nicht gleichzeitig beliebig genau messbar sind und begründen, warum der klassische Bahnbegriff und der klassische Determinismus aufgegeben werden müssen (Unbestimmtheitsrelation)
 
 $$
 \Delta x \cdot \Delta p_{x} \leq h
 $$
-
-
 
 # Operatoren
 

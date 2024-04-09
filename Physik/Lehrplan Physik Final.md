@@ -13,7 +13,7 @@ die Kraftwirkungen zwischen elektrisch geladenen Körpern beschreiben (Abstoßun
 
 #### Modellvorstellung
 Der Raum um einen geladenen Körper ist von einem elektrischen Feld erfüllt.
-= Übetrager der elektrischen Kräfte
+= Übertrager der elektrischen Kräfte
 
 #### Abstoßung
 gleich geladene Körper stoßen sich ab
@@ -59,9 +59,14 @@ die Struktur elektrischer Felder beschreiben (Feldlinien, homogenes Feld, Feld e
 ### 2.3 Kraftwirkung auf Probeladung
 den Zusammenhang zwischen der Kraftwirkung auf eine Probeladung und der elektrischen Feldstärke anhand eines Experimentes erläutern:
 
+Die elektrische Feldstärke $E$ an einem Ort des Feldes ist der Quotient aus der Kraft $F$, die ein geladener Körper im betrachteten Feld erfährt und seiner Ladung $q$
+
 $$
 \vec{E} = \frac{\vec{F}_{El}} { q } 
 $$
+
+Die Einheit des elektrischen Feldes ist $[E] = \frac{1N}{1C}$.
+Die elektrische Feldstärke ist ein Vektor. Ihre Richtung stimmt mit der Kraft auf einen *positiv* geladenen Probekörper überein.
 
 4. die elektrische Feldstärke eines Plattenkondensators beschreiben:
 

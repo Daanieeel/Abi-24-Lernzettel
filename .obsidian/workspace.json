@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Lehrplan Physik Final.md",
-                "mode": "source",
+                "file": "Wirtschaft/Lehrplan Final.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik/Lehrplan Physik Final.md",
+                "file": "Wirtschaft/Lehrplan Final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physik/Lehrplan Physik Final.md",
+                "file": "Wirtschaft/Lehrplan Final.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/Lehrplan Physik Final.md"
+                "file": "Wirtschaft/Lehrplan Final.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physik/Lehrplan Physik Final.md"
+                "file": "Wirtschaft/Lehrplan Final.md"
               }
             }
           }
@@ -170,8 +170,12 @@
   },
   "active": "d71e055ba78426d9",
   "lastOpenFiles": [
-    "Physik/assets/Faradayscher Käfig.png",
+    "Wirtschaft/Übungsaufgaben/(Stark) Übungsaufgabe 1.md",
     "Wirtschaft/Lehrplan Final.md",
+    "Wirtschaft/Übungsaufgaben",
+    "Wirtschaft/Fragen Wirtschaft.md",
+    "Physik/Lehrplan Physik Final.md",
+    "Physik/assets/Faradayscher Käfig.png",
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/Arbeit 4.0.png",
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/Tarifkonflikt-1.jpg",
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/Mindestlohn.png",
@@ -197,8 +201,6 @@
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen Ökonomie/4/Preisfunktionen.md",
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen Ökonomie/4/Preis-Mengen-Diagramm.md",
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen Ökonomie/4/Güterarten.md",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen Ökonomie/4/Elastizitäten.md",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen Ökonomie/4/Bestimmungsfaktoren von Angebot und Nachfrage.md",
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen Ökonomie/8",
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen Ökonomie/7",
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen Ökonomie/6",
@@ -213,9 +215,7 @@
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen der BWL/Porter.jpg",
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen der BWL/Marketing Mix.png",
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen der BWL/Finanzierungsmöglichkeiten.svg",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen der BWL/Betriebliche Grundfunktionen.png",
     "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen Ökonomie",
-    "Wirtschaft/Inhaltsbezogene Kompetenzen/assets/definitions/Grundlagen der BWL",
     "Physik/Julian Formelsammlung/Overview.canvas",
     "Physik/Julian-Formelsammlung/PhysikNotes/Overview.canvas",
     "Untitled.canvas"

@@ -543,6 +543,8 @@ Indikatoren und Verhalten in Phasen der Konjunktur.
 | Prduktionsindex | &uarr; | &rarr; | &darr; | &rarr; |
 | Kapazitätauslastung d. Industrie | &uarr; | = 100% | &darr; | niedrig |
 | Einzelhandelsumsätze | &uarr; | &rarr; | &darr; | &rarr; |
+| Preise | &uarr; | &rarr; | &darr; | &rarr; |
+| Lagerbestände | &darr; | &rarr; | &uarr; | &rarr; |
 
 ### Spätindikatoren
 | Indikator | Aufschwung | Boom | Rezession | Depression |
@@ -550,6 +552,9 @@ Indikatoren und Verhalten in Phasen der Konjunktur.
 | Arbeitsmarkt (ALQ) | &darr; | &rarr; | &uarr; | &rarr; |
 | Preisentwicklung | &darr; | niedrig | &uarr; | hoch |
 | Einkommensentwicklung | &uarr; | &rarr; | &darr; | &rarr; |
+| Steuereinnahmen | &uarr; | &rarr; | &darr; | &rarr; |
+| Inflationsrate | &darr; | &rarr; | &uarr; | &rarr; |
+
 
 ## 1.7 Wirtschaftsordnungen
 die Soziale Marktwirtschaft mit einer anderen realen Wirtschaftsordnung vergleichen
@@ -1268,7 +1273,7 @@ individuelle, soziale und wirtschaftliche Folgen von Arbeitslosigkeit für den E
 
 | individuell | sozial | wirtschaftlich |
 | --- | --- | --- |
-| <li>subjektives Glücksempfinden</li><li>weniger soziale Kontakte</li><li>mangelndes Selbstwergefühl</li><li>negatives Stigma der Arbeitslosigkeit</li><li>kein finanzieller Spielraum</li><li>Wiedereinstieg schwer</li><li>Lebenssinn?</li><li>kein Einkommen</li> | <li>erhöhte staatliche Ausgaben</li><li>reduzierte Steuereinnahmen</li> | <li>Verringerung des Konsums</li><li>Wachstumsverlangsamung und Inflation</li>&rarr; Reduktio der Produktion<li>reduziertes BIP</li><li>Haushaltsdefizite oder notwendige Ausgabenkürzung bzw. Verschuldung</li> |
+| <li>subjektives Glücksempfinden</li><li>weniger soziale Kontakte</li><li>mangelndes Selbstwergefühl</li><li>negatives Stigma der Arbeitslosigkeit</li><li>kein finanzieller Spielraum</li><li>Wiedereinstieg schwer</li><li>Lebenssinn?</li><li>kein Einkommen</li> | <li>Menschen werden abgehängt</li><li>Stigmatisierung</li> | <li>erhöhte staatliche Ausgaben</li><li>reduzierte Steuereinnahmen</li>  <li>Verringerung des Konsums</li><li>Wachstumsverlangsamung und Inflation</li>&rarr; Reduktio der Produktion<li>reduziertes BIP</li><li>Haushaltsdefizite oder notwendige Ausgabenkürzung bzw. Verschuldung</li> |
 
 
 ## 3.4 Interessen auf dem AM
@@ -1353,7 +1358,7 @@ staatliche Rahmenbedingungen (Tarifautonomie, Arbeitsrecht und Transferleistunge
 > = das Recht des Bürgers, Verträge mit jedermann frei abzuschließen und Form, Inhalt und Vertragsbedingungen frei zu bestimmen, sofern Gesetze nichts anderes vorschreiben.
 > &rarr; wesentlichste Voraussetzung für freiheitliches Wirtschaften in einer Marktwirtschaft
 
-#### Pflichte der Tarifpartner
+#### Pflichten der Tarifpartner
 
 | Arbeitgeber | Arbeitnehmer |
 | --- | --- |

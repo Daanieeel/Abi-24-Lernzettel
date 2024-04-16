@@ -422,11 +422,63 @@ $$
 E_{Quant} = h \cdot f \quad \textrm{und} \quad p = \frac{h}{\lambda}
 $$
 
+Für ale Quantenobjekte gilt: Impuls p $\Leftrightarrow$ de-Broglie-Wellenlänge $\lambda = \frac{h}{p}$
+
+#### Merke
+- Elektronen sin auch Quantenobjekte
+- ihnen kann wie den Photonen die Wellenlänge $\lambda = \frac{h}{p}$
+- Diese Beziehung gilt auch für größere Teilchen (Neutronen, Atome, Moleküle)
+
+#### Beispiel
+$$
+\lambda = \frac{h}{p} = \frac{h}{m \cdot v}
+$$
+
+<center>mit</center>
+
+$$
+\frac{1}{2}mv^2  = e \cdot U \quad \textrm{und} \quad v = \sqrt{\frac{2e \cdot U}{m}} 
+$$
+
+$$
+\Longrightarrow \quad \lambda = \frac{h}{me \cdot \sqrt{\frac{2e \cdot U}{me}}} = \frac{h}{\sqrt{2me \cdot e \cdot U}}
+$$
+
 ### 6.3 Klassische Wellen/Teilchen vs. Quantenobjekte
 Gemeinsamkeiten und Unterschiede des Verhaltens von klassischen Wellen, klassischen Teilchen und Quantenobjekten am Doppelspalt beschreiben
 
+#### Klassische Wellen
+&rarr; Huygen'sches Prinzip (Elementarwellen hinter dem Spalt)
+$\Longrightarrow$ daher bildet sich ein Interferenzmuster am Schirm aufgrund des Gangunterschiedes der Elementarwellen
+
+#### Klassische Teilchen
+Impuls und Ort bekannt
+&rarr; fliegen voraussagbar immer gerade durch
+
+#### Quantenobjekte
+&rarr; _siehe Wesenszüge aus 6.4_
+
 ### 6.4 Determinismus bei Quantenobjekte
 erläutern, wie für Quantenobjekte der Determinismus der klassischen Physik durch Wahrscheinlichkeitsaussagen ersetzt wird (Interferenz-Experimente mit einzelnen Quantenobjekten)
+
+#### 4 Wesenszüge der Quantenmechanik
+
+##### Stochastische Unvorhersagbarkeit
+- kann nicht vorhergesagt werden, wo das Quantenobjekt auftrifft
+- auf lange Sicht ergibt sich aber ein Muster
+
+$$
+\Psi(x, t) = cos(2\pi (\frac{t}{T} - \frac{x}{\lambda})) + i \cdot sin(2\pi (\frac{t}{T} - \frac{x}{\lambda}))
+$$
+
+##### Wahrscheinlichkeitsinterpretation der Welle
+&rarr; Ein quantenmechanisches System wird durch eine Wellenfunktion $\Psi$ beschrieben. $\Psi^2$ gibt die Wahrscheinlichkeit für ein bestimmtes Ereignis an
+
+#### Fähigkeit zur Interferenz
+
+#### Möglcihe Messergebnisse
+
+#### Komplementarität
 
 ### 6.5 Experimente beschreiben
 Experimente zur Interferenz einzelner Quantenobjekte anhand von Wahrscheinlichkeitsaussagen beschreiben und den Ausgang der Experimente erklären
